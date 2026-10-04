@@ -1,0 +1,10 @@
+{
+  "users": 20,
+  "turns_per_user": 100,
+  "interactions": 2000,
+  "retrieval_calls": 40,
+  "elapsed_seconds": 6.0566659030000665,
+  "interactions_per_second": 330.2146811514457,
+  "active_exact_contradictions": 0,
+  "pass": true
+}

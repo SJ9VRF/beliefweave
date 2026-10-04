@@ -1,0 +1,2888 @@
+{
+  "suite": "BeliefWeave Sealed Specification Challenge",
+  "status": "frozen before execution",
+  "n": 480,
+  "sha256_of_id_family_gold_note": "36f9beeb1a0de5699694427a2becdabacea7d950477e6a69c83251f02773aa1d",
+  "cases": [
+    {
+      "id": "deleted_scoped_unknown-000",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-001",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-002",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-003",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-004",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-005",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-006",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-007",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-008",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-009",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-010",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-011",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-012",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-013",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-014",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-015",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-016",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-017",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-018",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-019",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-020",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-021",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-022",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-023",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-024",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-025",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-026",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-027",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-028",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-029",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-030",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "deleted_scoped_unknown-031",
+      "family": "deleted_scoped_unknown",
+      "gold": "abstain",
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-000",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-001",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-002",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-003",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-004",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-005",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-006",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-007",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-008",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-009",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-010",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-011",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-012",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-013",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-014",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-015",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-016",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-017",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-018",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-019",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-020",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-021",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-022",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-023",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-024",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-025",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-026",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-027",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-028",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-029",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-030",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "archived_scoped_unknown-031",
+      "family": "archived_scoped_unknown",
+      "gold": "abstain",
+      "note": "Archived evidence should not trigger clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-000",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-001",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-002",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-003",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-004",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-005",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-006",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-007",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-008",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-009",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-010",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-011",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-012",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-013",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-014",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-015",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-016",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-017",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-018",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-019",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-020",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-021",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-022",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-023",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-024",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-025",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-026",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-027",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-028",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-029",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-030",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "expired_scoped_unknown-031",
+      "family": "expired_scoped_unknown",
+      "gold": "abstain",
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    {
+      "id": "malformed_valid_until-000",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-001",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-002",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-003",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-004",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-005",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-006",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-007",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-008",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-009",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-010",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-011",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-012",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-013",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-014",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-015",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-016",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-017",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-018",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-019",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-020",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-021",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-022",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-023",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-024",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-025",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-026",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-027",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-028",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-029",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-030",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_until-031",
+      "family": "malformed_valid_until",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-000",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-001",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-002",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-003",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-004",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-005",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-006",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-007",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-008",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-009",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-010",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-011",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-012",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-013",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-014",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-015",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-016",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-017",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-018",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-019",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-020",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-021",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-022",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-023",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-024",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-025",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-026",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-027",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-028",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-029",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-030",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "malformed_valid_from-031",
+      "family": "malformed_valid_from",
+      "gold": "ask",
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-000",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-001",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-002",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-003",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-004",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-005",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-006",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-007",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-008",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-009",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-010",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-011",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-012",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-013",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-014",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-015",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-016",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-017",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-018",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-019",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-020",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-021",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-022",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-023",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-024",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-025",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-026",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-027",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-028",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-029",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-030",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "missing_provenance_high_conf-031",
+      "family": "missing_provenance_high_conf",
+      "gold": "ask",
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    {
+      "id": "sensitive_unverified-000",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-001",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-002",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-003",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-004",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-005",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-006",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-007",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-008",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-009",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-010",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-011",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-012",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-013",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-014",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-015",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-016",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-017",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-018",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-019",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-020",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-021",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-022",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-023",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-024",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-025",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-026",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-027",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-028",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-029",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-030",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_unverified-031",
+      "family": "sensitive_unverified",
+      "gold": "ask",
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    {
+      "id": "sensitive_verified-000",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-001",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-002",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-003",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-004",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-005",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-006",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-007",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-008",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-009",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-010",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-011",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-012",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-013",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-014",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-015",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-016",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-017",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-018",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-019",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-020",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-021",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-022",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-023",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-024",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-025",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-026",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-027",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-028",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-029",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-030",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "sensitive_verified-031",
+      "family": "sensitive_verified",
+      "gold": "use",
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    {
+      "id": "context_exact_match-000",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-001",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-002",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-003",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-004",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-005",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-006",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-007",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-008",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-009",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-010",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-011",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-012",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-013",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-014",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-015",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-016",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-017",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-018",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-019",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-020",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-021",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-022",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-023",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-024",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-025",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-026",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-027",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-028",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-029",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-030",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_exact_match-031",
+      "family": "context_exact_match",
+      "gold": "use",
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    {
+      "id": "context_case_match-000",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-001",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-002",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-003",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-004",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-005",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-006",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-007",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-008",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-009",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-010",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-011",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-012",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-013",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-014",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-015",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-016",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-017",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-018",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-019",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-020",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-021",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-022",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-023",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-024",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-025",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-026",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-027",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-028",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-029",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-030",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "context_case_match-031",
+      "family": "context_case_match",
+      "gold": "use",
+      "note": "Context matching is case-insensitive."
+    },
+    {
+      "id": "exact_validity_boundary-000",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-001",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-002",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-003",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-004",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-005",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-006",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-007",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-008",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-009",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-010",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-011",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-012",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-013",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-014",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-015",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-016",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-017",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-018",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-019",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-020",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-021",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-022",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-023",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-024",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-025",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-026",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-027",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-028",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-029",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-030",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "exact_validity_boundary-031",
+      "family": "exact_validity_boundary",
+      "gold": "use",
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    {
+      "id": "inferred_verified_high-000",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-001",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-002",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-003",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-004",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-005",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-006",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-007",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-008",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-009",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-010",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-011",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-012",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-013",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-014",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-015",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-016",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-017",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-018",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-019",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-020",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-021",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-022",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-023",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-024",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-025",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-026",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-027",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-028",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-029",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-030",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "inferred_verified_high-031",
+      "family": "inferred_verified_high",
+      "gold": "use",
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    {
+      "id": "implicit_verified_high-000",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-001",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-002",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-003",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-004",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-005",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-006",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-007",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-008",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-009",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-010",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-011",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-012",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-013",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-014",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-015",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-016",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-017",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-018",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-019",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-020",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-021",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-022",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-023",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-024",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-025",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-026",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-027",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-028",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-029",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-030",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "implicit_verified_high-031",
+      "family": "implicit_verified_high",
+      "gold": "use",
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    {
+      "id": "synthetic_verified-000",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-001",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-002",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-003",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-004",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-005",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-006",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-007",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-008",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-009",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-010",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-011",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-012",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-013",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-014",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-015",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-016",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-017",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-018",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-019",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-020",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-021",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-022",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-023",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-024",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-025",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-026",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-027",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-028",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-029",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-030",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "synthetic_verified-031",
+      "family": "synthetic_verified",
+      "gold": "abstain",
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    },
+    {
+      "id": "conflict_plus_deleted-000",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-001",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-002",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-003",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-004",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-005",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-006",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-007",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-008",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-009",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-010",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-011",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-012",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-013",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-014",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-015",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-016",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-017",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-018",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-019",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-020",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-021",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-022",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-023",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-024",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-025",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-026",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-027",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-028",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-029",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-030",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    {
+      "id": "conflict_plus_deleted-031",
+      "family": "conflict_plus_deleted",
+      "gold": "abstain",
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    }
+  ]
+}

@@ -1,0 +1,1279 @@
+{
+  "benchmark": "BeliefShiftBench",
+  "n": 180,
+  "beliefweave": {
+    "decision_success_rate": 1.0,
+    "counterfactual_personalization_regret": 0.06944444444444445,
+    "false_personalization_rate": 0.0,
+    "use_precision": 1.0,
+    "intervention_fidelity": 1.0
+  },
+  "retrieval_only_baseline": {
+    "decision_success_rate": 0.2222222222222222,
+    "counterfactual_personalization_regret": 1.5555555555555556,
+    "false_personalization_rate": 0.7777777777777778
+  },
+  "scientific_boundary": "Controlled synthetic governance benchmark; not a real-user or SOTA claim.",
+  "rows": [
+    {
+      "id": "valid-0",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-1",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 0.98,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-2",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-3",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-4",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-5",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 0.96,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-6",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-7",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-8",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-9",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-10",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 0.96,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-11",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 0.98,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-12",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-13",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-14",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-15",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-16",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 0.98,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-17",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-18",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-19",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-20",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 0.96,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-21",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-22",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-23",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-24",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-25",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 0.96,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-26",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 0.98,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-27",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-28",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-29",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-30",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-31",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 0.98,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-32",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-33",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-34",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-35",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 0.96,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-36",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-37",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-38",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "valid-39",
+      "gold_should_use": true,
+      "action": "use",
+      "score": 1.0,
+      "reason": "sufficient_authority"
+    },
+    {
+      "id": "stale-0",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-1",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-2",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-3",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-4",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-5",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-6",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-7",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-8",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-9",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-10",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-11",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-12",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-13",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-14",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-15",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-16",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-17",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-18",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-19",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-20",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-21",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-22",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-23",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-24",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-25",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-26",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-27",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-28",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "stale-29",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.0,
+      "reason": "inactive_or_stale"
+    },
+    {
+      "id": "context-0",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-1",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-2",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-3",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-4",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-5",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-6",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-7",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-8",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-9",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-10",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-11",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-12",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-13",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-14",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-15",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-16",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-17",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-18",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-19",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-20",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-21",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-22",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-23",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-24",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-25",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-26",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-27",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-28",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "context-29",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.1,
+      "reason": "context_mismatch"
+    },
+    {
+      "id": "weak-0",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.32,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-1",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.34,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-2",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.36000000000000004,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-3",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.38000000000000006,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-4",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.39999999999999997,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-5",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.32,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-6",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.34,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-7",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.36000000000000004,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-8",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.38000000000000006,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-9",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.39999999999999997,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-10",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.32,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-11",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.34,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-12",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.36000000000000004,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-13",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.38000000000000006,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-14",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.39999999999999997,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-15",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.32,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-16",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.34,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-17",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.36000000000000004,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-18",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.38000000000000006,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-19",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.39999999999999997,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-20",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.32,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-21",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.34,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-22",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.36000000000000004,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-23",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.38000000000000006,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-24",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.39999999999999997,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-25",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.32,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-26",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.34,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-27",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.36000000000000004,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-28",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.38000000000000006,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "weak-29",
+      "gold_should_use": false,
+      "action": "abstain",
+      "score": 0.39999999999999997,
+      "reason": "insufficient_authority"
+    },
+    {
+      "id": "conflict-0",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-1",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-2",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-3",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-4",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-5",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-6",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-7",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-8",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-9",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-10",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-11",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-12",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-13",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-14",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-15",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-16",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-17",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-18",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-19",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-20",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-21",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-22",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-23",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-24",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-25",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-26",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-27",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-28",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "conflict-29",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.5,
+      "reason": "unresolved_conflict"
+    },
+    {
+      "id": "medium-0",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-1",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-2",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-3",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-4",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-5",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-6",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-7",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-8",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-9",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-10",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-11",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-12",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-13",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-14",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-15",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-16",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-17",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-18",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    },
+    {
+      "id": "medium-19",
+      "gold_should_use": false,
+      "action": "ask",
+      "score": 0.6799999999999999,
+      "reason": "uncertain_belief"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "suite": "Concurrent Ingest/Recall Integrity Stress",
+  "workers": 12,
+  "ops_per_worker": 40,
+  "expected_ingests": 480,
+  "observed_ingests": 480,
+  "error_count": 0,
+  "errors": [],
+  "integrity_ok": true,
+  "integrity_error_count": 0,
+  "per_user_event_count_min": 40,
+  "per_user_event_count_max": 40,
+  "latency_ms": {
+    "median": 6.302418000018406,
+    "p95": 105.71316400000796,
+    "p99": 436.35231199993996
+  },
+  "boundary": "Single-process multi-threaded SQLite stress. This is not a distributed or multi-process production load test."
+}

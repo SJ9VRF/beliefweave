@@ -1,0 +1,31 @@
+{
+  "overall_accuracy": 1.0,
+  "n_scenarios": 360,
+  "by_category": {
+    "preference_reversal": {
+      "accuracy": 1.0,
+      "n": 60
+    },
+    "context_dependence": {
+      "accuracy": 1.0,
+      "n": 60
+    },
+    "temporary_state": {
+      "accuracy": 1.0,
+      "n": 60
+    },
+    "explicit_correction": {
+      "accuracy": 1.0,
+      "n": 60
+    },
+    "third_party_attribution": {
+      "accuracy": 1.0,
+      "n": 60
+    },
+    "multilingual": {
+      "accuracy": 1.0,
+      "n": 60
+    }
+  },
+  "note": "Template-generated hard scenarios; deterministic engineering validation."
+}

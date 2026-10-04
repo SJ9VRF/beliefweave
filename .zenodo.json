@@ -1,0 +1,20 @@
+{
+  "title": "BeliefWeave: Governing When Memory May Change Behavior",
+  "description": "Research prototype, benchmark, and reproducible evaluation package for post-retrieval behavioral authority in long-term personalized AI.",
+  "creators": [
+    {
+      "name": "Yavary, Aura"
+    }
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "keywords": [
+    "personalization",
+    "long-term memory",
+    "AI agents",
+    "temporal memory",
+    "user modeling",
+    "evaluation"
+  ],
+  "version": "0.17.0"
+}

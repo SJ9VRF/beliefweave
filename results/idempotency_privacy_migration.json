@@ -1,0 +1,36 @@
+{
+  "schema_current": 4,
+  "legacy_migrated_to": 4,
+  "migrations": [
+    {
+      "version": 2,
+      "name": "ingest_idempotency_receipts"
+    },
+    {
+      "version": 3,
+      "name": "idempotency_tombstones"
+    },
+    {
+      "version": 4,
+      "name": "hashed_idempotency_keys"
+    }
+  ],
+  "same_key_replay_write_free": true,
+  "mismatched_payload_rejected": true,
+  "counts_before_forget": {
+    "events": 1,
+    "memories": 1
+  },
+  "counts_after_forget": {
+    "events": 0,
+    "memories": 0
+  },
+  "hard_forget_retry_resurrection_blocked": true,
+  "raw_idempotency_key_not_persisted": true,
+  "tombstone_sensitive_metadata_scrubbed": true,
+  "conflict_reference_repaired": true,
+  "supersedes_reference_repaired": true,
+  "integrity_ok": true,
+  "correction_provenance_preserved": true,
+  "all_pass": true
+}

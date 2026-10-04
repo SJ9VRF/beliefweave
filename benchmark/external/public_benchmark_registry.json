@@ -1,0 +1,72 @@
+{
+  "longmemeval": {
+    "canonical_repo": "https://github.com/xiaowu0162/LongMemEval",
+    "official_cleaned_data_base": "https://huggingface.co/datasets/xiaowu0162/longmemeval-cleaned/resolve/main/",
+    "n_questions": 500,
+    "abilities": [
+      "information extraction",
+      "multi-session reasoning",
+      "knowledge updates",
+      "temporal reasoning",
+      "abstention"
+    ],
+    "adapter_scope": "evidence-session retrieval coverage; answer-quality scoring still requires a reader model and official evaluator",
+    "execution_status": "not executed in this network-isolated build"
+  },
+  "longmemeval_v1": {
+    "canonical_repo": "https://github.com/xiaowu0162/LongMemEval",
+    "official_cleaned_data_base": "https://huggingface.co/datasets/xiaowu0162/longmemeval-cleaned/resolve/main/",
+    "n_questions": 500,
+    "abilities": [
+      "information extraction",
+      "multi-session reasoning",
+      "knowledge updates",
+      "temporal reasoning",
+      "abstention"
+    ],
+    "adapter_scope": "evidence-session retrieval coverage; answer-quality scoring still requires a reader model and official evaluator",
+    "execution_status": "not executed in this network-isolated build"
+  },
+  "longmemeval_v2": {
+    "canonical_reference": "LongMemEval-V2 (2026)",
+    "n_questions": 451,
+    "scope": "agentic environment memory across static/dynamic state, workflow knowledge, environment gotchas, and premise awareness; histories can span hundreds of trajectories",
+    "adapter_scope": "registry/contract only in this release; official data plus evaluator/model execution required",
+    "execution_status": "not executed in this network-isolated build"
+  },
+  "personamem": {
+    "canonical_repo": "https://github.com/bowen-upenn/PersonaMem",
+    "official_dataset": "https://huggingface.co/datasets/bowen-upenn/PersonaMem-v1",
+    "public_32k_rows": 589,
+    "adapter_scope": "provider-neutral request materialization; official response quality still requires model inference",
+    "execution_status": "not executed in this network-isolated build",
+    "name": "PersonaMem-v1"
+  },
+  "personamem_v1": {
+    "canonical_repo": "https://github.com/bowen-upenn/PersonaMem",
+    "official_dataset": "https://huggingface.co/datasets/bowen-upenn/PersonaMem-v1",
+    "public_32k_rows": 589,
+    "adapter_scope": "provider-neutral request materialization; official response quality still requires model inference",
+    "execution_status": "not executed in this network-isolated build",
+    "name": "PersonaMem-v1"
+  },
+  "personamem_v3": {
+    "canonical_repo": "https://github.com/bowen-upenn/PersonaMem",
+    "canonical_reference": "PersonaMem-v3 (2026)",
+    "reported_users": 200,
+    "reported_engagement_histories": 4000000,
+    "reported_implicit_signal_share": "~95%",
+    "scope": "omni-platform personalization, recommendation, agentic tasks, proactivity, and explicit over-personalization/restraint cases",
+    "novelty_boundary": "BeliefWeave does not claim that restraint/over-personalization itself is novel; the narrower contribution is a memory-level USE/ASK/ABSTAIN authority decision surface with explicit costs and counterfactual intervention diagnostics.",
+    "execution_status": "priority external target; not executed in this network-isolated build"
+  },
+  "claim_policy": "No external benchmark score or human-preference score is claimed without official data/model/evaluator execution. Registry metadata documents executable next steps, not completed evidence.",
+  "op_bench": {
+    "canonical_reference": "OP-Bench (Hu et al., 2026; arXiv:2601.13722)",
+    "n_instances": 1700,
+    "scope": "over-personalization in memory-augmented conversational agents: irrelevance, repetition, and sycophancy; includes Self-ReCheck memory filtering",
+    "adapter_scope": "priority comparison target for whether explicit USE/ASK/ABSTAIN authority improves on binary/filtering-style restraint; official data/model/evaluator execution required",
+    "novelty_boundary": "BeliefWeave does not claim memory filtering or over-personalization restraint as novel. The narrower contribution is explicit per-memory behavioral authority with three actions, explicit costs, counterfactual causal diagnostics, and specification testing.",
+    "execution_status": "not executed in this build; no OP-Bench superiority claim is made"
+  }
+}

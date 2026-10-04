@@ -1,0 +1,23 @@
+{
+  "all_pass": true,
+  "faults": [
+    {
+      "events_after_rollback": 0,
+      "fault": "after_memory_insert",
+      "integrity_ok": true,
+      "memories_after_rollback": 0,
+      "passed": true
+    },
+    {
+      "event_state_unchanged": true,
+      "fault": "during_conflict_resolution",
+      "integrity_ok": true,
+      "memory_state_unchanged": true,
+      "passed": true,
+      "prior_memory_still_active": true
+    }
+  ],
+  "guarantee": "event, memory, conflict, and supersession writes are committed atomically per ingest",
+  "n_faults": 2,
+  "passed_faults": 2
+}

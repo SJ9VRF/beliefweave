@@ -1,0 +1,14 @@
+{
+  "n_cases": 200,
+  "reversal_retirement_accuracy": {
+    "append_only": 0.0,
+    "latest_predicate": 0.0,
+    "full_pwm": 1.0
+  },
+  "temporary_expiry_accuracy": {
+    "append_only": 0.0,
+    "latest_predicate": 0.0,
+    "full_pwm": 1.0
+  },
+  "note": "Controlled ablation over deterministic baselines."
+}

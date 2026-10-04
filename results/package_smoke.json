@@ -1,0 +1,12 @@
+{
+  "contains_conflict_model": true,
+  "contains_observation_router": true,
+  "contains_public_api": true,
+  "contains_py_typed": true,
+  "core_target_install_smoke": true,
+  "passed": true,
+  "stderr": "",
+  "stdout": "ok",
+  "wheel": "beliefweave-0.17.0-py3-none-any.whl",
+  "wheel_size_bytes": 142951
+}

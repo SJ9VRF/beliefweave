@@ -1,0 +1,7 @@
+{
+  "core_runtime_without_ml": true,
+  "installed_with_no_dependencies": true,
+  "status": "PASS",
+  "stdout": "{'gate_version': 'v3', 'ml_enabled': False, 'retriever': 'MemoryRetriever', 'extractor': 'RuleBasedObservationExtractor', 'conflict_resolver': 'ConflictResolver'}",
+  "wheel": "beliefweave-0.17.0-py3-none-any.whl"
+}

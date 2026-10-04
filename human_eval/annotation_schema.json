@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["item_id","rater_id","current_alignment","outdated_use","intrusiveness","should_ask","overall_preference"],
+  "properties": {
+    "item_id": {"type":"string"}, "rater_id":{"type":"string"},
+    "current_alignment":{"enum":["A","B","tie"]},
+    "outdated_use":{"enum":["A","B","both","neither"]},
+    "intrusiveness":{"enum":["A","B","tie"]},
+    "should_ask":{"type":"boolean"},
+    "overall_preference":{"enum":["A","B","tie"]}
+  }
+}

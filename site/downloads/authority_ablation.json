@@ -1,0 +1,349 @@
+{
+  "benchmark": "AuthorityAblationBench",
+  "n": 200,
+  "systems": {
+    "retrieval_only": {
+      "cpr": 1.25,
+      "false_personalization_rate": 0.625,
+      "use_precision": 0.2857142857142857,
+      "use_recall": 1.0,
+      "ask_rate": 0.0,
+      "abstain_rate": 0.125
+    },
+    "confidence_only": {
+      "cpr": 0.75,
+      "false_personalization_rate": 0.375,
+      "use_precision": 0.4,
+      "use_recall": 1.0,
+      "ask_rate": 0.0,
+      "abstain_rate": 0.375
+    },
+    "provenance_only": {
+      "cpr": 1.0,
+      "false_personalization_rate": 0.5,
+      "use_precision": 0.3333333333333333,
+      "use_recall": 1.0,
+      "ask_rate": 0.0,
+      "abstain_rate": 0.25
+    },
+    "temporal_context_gate": {
+      "cpr": 0.75,
+      "false_personalization_rate": 0.375,
+      "use_precision": 0.4,
+      "use_recall": 1.0,
+      "ask_rate": 0.0,
+      "abstain_rate": 0.375
+    },
+    "beliefweave": {
+      "cpr": 0.0625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 1.0,
+      "ask_rate": 0.25,
+      "abstain_rate": 0.5
+    }
+  },
+  "threshold_sweep": [
+    {
+      "use_threshold": 0.7,
+      "ask_threshold": 0.45,
+      "cpr": 0.28875,
+      "false_personalization_rate": 0.125,
+      "use_precision": 0.6666666666666666,
+      "use_recall": 1.0,
+      "ask_rate": 0.155,
+      "abstain_rate": 0.47
+    },
+    {
+      "use_threshold": 0.7,
+      "ask_threshold": 0.5,
+      "cpr": 0.28125,
+      "false_personalization_rate": 0.125,
+      "use_precision": 0.6666666666666666,
+      "use_recall": 1.0,
+      "ask_rate": 0.125,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.7,
+      "ask_threshold": 0.52,
+      "cpr": 0.28125,
+      "false_personalization_rate": 0.125,
+      "use_precision": 0.6666666666666666,
+      "use_recall": 1.0,
+      "ask_rate": 0.125,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.7,
+      "ask_threshold": 0.55,
+      "cpr": 0.28125,
+      "false_personalization_rate": 0.125,
+      "use_precision": 0.6666666666666666,
+      "use_recall": 1.0,
+      "ask_rate": 0.125,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.7,
+      "ask_threshold": 0.6,
+      "cpr": 0.28125,
+      "false_personalization_rate": 0.125,
+      "use_precision": 0.6666666666666666,
+      "use_recall": 1.0,
+      "ask_rate": 0.125,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.75,
+      "ask_threshold": 0.45,
+      "cpr": 0.07,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 1.0,
+      "ask_rate": 0.28,
+      "abstain_rate": 0.47
+    },
+    {
+      "use_threshold": 0.75,
+      "ask_threshold": 0.5,
+      "cpr": 0.0625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 1.0,
+      "ask_rate": 0.25,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.75,
+      "ask_threshold": 0.52,
+      "cpr": 0.0625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 1.0,
+      "ask_rate": 0.25,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.75,
+      "ask_threshold": 0.55,
+      "cpr": 0.0625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 1.0,
+      "ask_rate": 0.25,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.75,
+      "ask_threshold": 0.6,
+      "cpr": 0.0625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 1.0,
+      "ask_rate": 0.25,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.78,
+      "ask_threshold": 0.45,
+      "cpr": 0.07,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 1.0,
+      "ask_rate": 0.28,
+      "abstain_rate": 0.47
+    },
+    {
+      "use_threshold": 0.78,
+      "ask_threshold": 0.5,
+      "cpr": 0.0625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 1.0,
+      "ask_rate": 0.25,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.78,
+      "ask_threshold": 0.52,
+      "cpr": 0.0625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 1.0,
+      "ask_rate": 0.25,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.78,
+      "ask_threshold": 0.55,
+      "cpr": 0.0625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 1.0,
+      "ask_rate": 0.25,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.78,
+      "ask_threshold": 0.6,
+      "cpr": 0.0625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 1.0,
+      "ask_rate": 0.25,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.8,
+      "ask_threshold": 0.45,
+      "cpr": 0.07,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 1.0,
+      "ask_rate": 0.28,
+      "abstain_rate": 0.47
+    },
+    {
+      "use_threshold": 0.8,
+      "ask_threshold": 0.5,
+      "cpr": 0.0625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 1.0,
+      "ask_rate": 0.25,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.8,
+      "ask_threshold": 0.52,
+      "cpr": 0.0625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 1.0,
+      "ask_rate": 0.25,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.8,
+      "ask_threshold": 0.55,
+      "cpr": 0.0625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 1.0,
+      "ask_rate": 0.25,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.8,
+      "ask_threshold": 0.6,
+      "cpr": 0.0625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 1.0,
+      "ask_rate": 0.25,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.85,
+      "ask_threshold": 0.45,
+      "cpr": 0.07875,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 0.86,
+      "ask_rate": 0.315,
+      "abstain_rate": 0.47
+    },
+    {
+      "use_threshold": 0.85,
+      "ask_threshold": 0.5,
+      "cpr": 0.07125,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 0.86,
+      "ask_rate": 0.285,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.85,
+      "ask_threshold": 0.52,
+      "cpr": 0.07125,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 0.86,
+      "ask_rate": 0.285,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.85,
+      "ask_threshold": 0.55,
+      "cpr": 0.07125,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 0.86,
+      "ask_rate": 0.285,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.85,
+      "ask_threshold": 0.6,
+      "cpr": 0.07125,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 0.86,
+      "ask_rate": 0.285,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.9,
+      "ask_threshold": 0.45,
+      "cpr": 0.09375,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 0.62,
+      "ask_rate": 0.375,
+      "abstain_rate": 0.47
+    },
+    {
+      "use_threshold": 0.9,
+      "ask_threshold": 0.5,
+      "cpr": 0.08625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 0.62,
+      "ask_rate": 0.345,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.9,
+      "ask_threshold": 0.52,
+      "cpr": 0.08625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 0.62,
+      "ask_rate": 0.345,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.9,
+      "ask_threshold": 0.55,
+      "cpr": 0.08625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 0.62,
+      "ask_rate": 0.345,
+      "abstain_rate": 0.5
+    },
+    {
+      "use_threshold": 0.9,
+      "ask_threshold": 0.6,
+      "cpr": 0.08625,
+      "false_personalization_rate": 0.0,
+      "use_precision": 1.0,
+      "use_recall": 0.62,
+      "ask_rate": 0.345,
+      "abstain_rate": 0.5
+    }
+  ],
+  "scientific_boundary": "Controlled synthetic mechanism-isolation benchmark; not real-user utility or cross-paper SOTA."
+}

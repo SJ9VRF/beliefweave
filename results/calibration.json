@@ -1,0 +1,78 @@
+{
+  "n": 114,
+  "ece": 0.048556048113633454,
+  "brier_like": 0.2114913083720049,
+  "nll_binary_correctness": 0.601426182807798,
+  "bins": [
+    {
+      "lo": 0.2,
+      "hi": 0.4,
+      "n": 5,
+      "accuracy": 0.4,
+      "mean_confidence": 0.33314821325805727
+    },
+    {
+      "lo": 0.4,
+      "hi": 0.6000000000000001,
+      "n": 48,
+      "accuracy": 0.5833333333333334,
+      "mean_confidence": 0.5123690857500612
+    },
+    {
+      "lo": 0.6,
+      "hi": 0.8,
+      "n": 35,
+      "accuracy": 0.6571428571428571,
+      "mean_confidence": 0.6805884646670279
+    },
+    {
+      "lo": 0.8,
+      "hi": 1.0,
+      "n": 26,
+      "accuracy": 0.8461538461538461,
+      "mean_confidence": 0.8836250155346715
+    }
+  ],
+  "selective_prediction": [
+    {
+      "threshold": 0,
+      "coverage": 1.0,
+      "accuracy": 0.6578947368421053,
+      "n": 114
+    },
+    {
+      "threshold": 0.5,
+      "coverage": 0.7719298245614035,
+      "accuracy": 0.6818181818181818,
+      "n": 88
+    },
+    {
+      "threshold": 0.6,
+      "coverage": 0.5350877192982456,
+      "accuracy": 0.7377049180327869,
+      "n": 61
+    },
+    {
+      "threshold": 0.7,
+      "coverage": 0.32456140350877194,
+      "accuracy": 0.8378378378378378,
+      "n": 37
+    },
+    {
+      "threshold": 0.8,
+      "coverage": 0.22807017543859648,
+      "accuracy": 0.8461538461538461,
+      "n": 26
+    },
+    {
+      "threshold": 0.9,
+      "coverage": 0.08771929824561403,
+      "accuracy": 1.0,
+      "n": 10
+    }
+  ],
+  "recommended_operating_point": {
+    "threshold": 0.7,
+    "rationale": "Raises OOD precision materially; low-confidence candidates should not be persisted without stronger evidence or user confirmation."
+  }
+}

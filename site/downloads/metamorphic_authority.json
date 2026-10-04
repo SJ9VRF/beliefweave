@@ -1,0 +1,235 @@
+{
+  "suite": "Authority Metamorphic Invariants",
+  "gates": [
+    {
+      "gate": "DecisionAwareBeliefGateV2",
+      "n_checks": 185,
+      "n_failed": 0,
+      "pass_rate": 1.0,
+      "by_invariant": {
+        "archived_never_use": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "archived_non_increasing": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "confidence_monotonicity": {
+          "n": 64,
+          "passed": 64,
+          "pass_rate": 1.0
+        },
+        "conflict_never_use": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "conflict_non_increasing": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "context_case_invariant": {
+          "n": 9,
+          "passed": 9,
+          "pass_rate": 1.0
+        },
+        "context_mismatch_never_use": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "context_mismatch_non_increasing": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "deleted_never_use": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "deleted_non_increasing": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "expired_never_use": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "expired_non_increasing": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "explicit_not_below_inferred": {
+          "n": 9,
+          "passed": 9,
+          "pass_rate": 1.0
+        },
+        "future_never_use": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "future_non_increasing": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "superseded_never_use": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "superseded_non_increasing": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "synthetic_never_use": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "synthetic_non_increasing": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "temporal_boundary_inclusive": {
+          "n": 3,
+          "passed": 3,
+          "pass_rate": 1.0
+        },
+        "verification_non_decreasing": {
+          "n": 36,
+          "passed": 36,
+          "pass_rate": 1.0
+        }
+      },
+      "failures": []
+    },
+    {
+      "gate": "DecisionAwareBeliefGateV3",
+      "n_checks": 185,
+      "n_failed": 0,
+      "pass_rate": 1.0,
+      "by_invariant": {
+        "archived_never_use": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "archived_non_increasing": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "confidence_monotonicity": {
+          "n": 64,
+          "passed": 64,
+          "pass_rate": 1.0
+        },
+        "conflict_never_use": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "conflict_non_increasing": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "context_case_invariant": {
+          "n": 9,
+          "passed": 9,
+          "pass_rate": 1.0
+        },
+        "context_mismatch_never_use": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "context_mismatch_non_increasing": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "deleted_never_use": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "deleted_non_increasing": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "expired_never_use": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "expired_non_increasing": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "explicit_not_below_inferred": {
+          "n": 9,
+          "passed": 9,
+          "pass_rate": 1.0
+        },
+        "future_never_use": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "future_non_increasing": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "superseded_never_use": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "superseded_non_increasing": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "synthetic_never_use": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "synthetic_non_increasing": {
+          "n": 4,
+          "passed": 4,
+          "pass_rate": 1.0
+        },
+        "temporal_boundary_inclusive": {
+          "n": 3,
+          "passed": 3,
+          "pass_rate": 1.0
+        },
+        "verification_non_decreasing": {
+          "n": 36,
+          "passed": 36,
+          "pass_rate": 1.0
+        }
+      },
+      "failures": []
+    }
+  ],
+  "all_pass": true,
+  "interpretation": "Property-based audit over transformations that should preserve or monotonically reduce personalization authority; not a substitute for user-level downstream evaluation."
+}

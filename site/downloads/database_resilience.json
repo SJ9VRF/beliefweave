@@ -1,0 +1,44 @@
+{
+  "crash_recovery": {
+    "crash_exit_code": 86,
+    "events_after_recovery": 0,
+    "integrity_ok": true,
+    "memories_after_recovery": 0,
+    "pass": true
+  },
+  "multiprocess": {
+    "all_processes_exited": true,
+    "expected_events": 80,
+    "integrity_ok": true,
+    "observed_events": 80,
+    "operations_per_worker": 20,
+    "pass": true,
+    "per_user_event_counts": {
+      "worker-0": 20,
+      "worker-1": 20,
+      "worker-2": 20,
+      "worker-3": 20
+    },
+    "worker_reports": [
+      {
+        "ok": true,
+        "worker": 0
+      },
+      {
+        "ok": true,
+        "worker": 1
+      },
+      {
+        "ok": true,
+        "worker": 2
+      },
+      {
+        "ok": true,
+        "worker": 3
+      }
+    ],
+    "workers": 4
+  },
+  "pass": true,
+  "scope": "SQLite reference-runtime process resilience; this is not a distributed-database or production durability claim."
+}

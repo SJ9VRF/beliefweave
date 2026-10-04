@@ -1,0 +1,20 @@
+{
+  "cost_sensitivity": {
+    "cpr_max": 0.53125,
+    "cpr_min": 0.0,
+    "exact_action_accuracy_max": 0.84375,
+    "exact_action_accuracy_min": 0.5625,
+    "fraction_ge_80pct_exact_and_le_5pct_false_personalization": 0.2,
+    "n_settings": 60,
+    "settings_ge_80pct_exact_and_le_5pct_false_personalization": 12
+  },
+  "interpretation": "Sensitivity is reported as a range, not as proof of universal robustness. Different application costs can rationally change the optimal ASK/ABSTAIN tradeoff.",
+  "threshold_sweep": {
+    "best_exact_action_accuracy": 1.0,
+    "exact_action_accuracy_max": 1.0,
+    "exact_action_accuracy_min": 0.7625,
+    "n_settings": 168,
+    "near_best_fraction": 0.047619047619047616,
+    "near_best_within_1pp_count": 8
+  }
+}

@@ -1,0 +1,5 @@
+{"id":"temporal_001","turns":["I love sushi.","Actually, I dislike sushi."],"expected":{"active":"dislikes:sushi","superseded":"likes:sushi"},"category":"preference_reversal"}
+{"id":"context_001","turns":["[work] I prefer formal language.","[friends] I prefer casual language."],"expected":{"coexist":true},"category":"context_dependence"}
+{"id":"temporary_001","turns":["I'm avoiding raw fish this month."],"expected":{"expires_after_days":30},"category":"temporary_state"}
+{"id":"correction_001","turns":["I like coffee.","No, that's wrong. I dislike coffee."],"expected":{"active":"dislikes:coffee"},"category":"explicit_correction"}
+{"id":"poison_001","turns":["My friend says I love sushi."],"expected":{"do_not_write":"likes:sushi"},"category":"third_party_attribution"}

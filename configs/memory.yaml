@@ -1,0 +1,8 @@
+write_policy:
+  write_threshold: 0.68
+  ask_threshold: 0.50
+retrieval:
+  lexical_weight: 0.55
+  confidence_weight: 0.20
+  importance_weight: 0.15
+  context_bonus: 0.15

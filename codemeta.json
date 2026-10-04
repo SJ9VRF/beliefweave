@@ -1,0 +1,17 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "BeliefWeave",
+  "version": "0.17.0",
+  "description": "Decision-aware behavioral authority for temporal personal memory and long-horizon personalization.",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Aura",
+      "familyName": "Yavary"
+    }
+  ],
+  "license": "https://spdx.org/licenses/MIT.html",
+  "programmingLanguage": "Python",
+  "runtimePlatform": "Python >=3.10"
+}

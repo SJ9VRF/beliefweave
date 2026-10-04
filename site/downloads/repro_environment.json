@@ -1,0 +1,65 @@
+{
+  "constraints_file": "constraints/reproducible.txt",
+  "match": true,
+  "mismatches": [],
+  "packages": {
+    "fastapi": {
+      "actual": "0.128.2",
+      "expected": "0.128.2",
+      "match": true
+    },
+    "httpx": {
+      "actual": "0.28.1",
+      "expected": "0.28.1",
+      "match": true
+    },
+    "joblib": {
+      "actual": "1.5.3",
+      "expected": "1.5.3",
+      "match": true
+    },
+    "matplotlib": {
+      "actual": "3.10.8",
+      "expected": "3.10.8",
+      "match": true
+    },
+    "numpy": {
+      "actual": "2.3.5",
+      "expected": "2.3.5",
+      "match": true
+    },
+    "pydantic": {
+      "actual": "2.13.4",
+      "expected": "2.13.4",
+      "match": true
+    },
+    "pytest": {
+      "actual": "9.0.2",
+      "expected": "9.0.2",
+      "match": true
+    },
+    "pytest-cov": {
+      "actual": "7.0.0",
+      "expected": "7.0.0",
+      "match": true
+    },
+    "scikit-learn": {
+      "actual": "1.8.0",
+      "expected": "1.8.0",
+      "match": true
+    },
+    "scipy": {
+      "actual": "1.17.0",
+      "expected": "1.17.0",
+      "match": true
+    },
+    "uvicorn": {
+      "actual": "0.48.0",
+      "expected": "0.48.0",
+      "match": true
+    }
+  },
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+  "python": "3.13.5",
+  "scope": "reference validation environment; package supports a broader version range declared in pyproject.toml"
+}

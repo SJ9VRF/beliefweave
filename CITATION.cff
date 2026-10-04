@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: BeliefWeave
+message: "If you use this research prototype, please cite the software and accompanying manuscript."
+type: software
+authors:
+  - family-names: Yavary
+    given-names: Aura
+version: 0.17.0
+abstract: "Decision-aware behavioral authority for temporal personal memory: retrieve relevant evidence, then decide whether it should be used, clarified, or ignored."
+preferred-citation:
+  type: article
+  title: "BeliefWeave: Governing When Memory May Change Behavior"
+  authors:
+    - family-names: Yavary
+      given-names: Aura

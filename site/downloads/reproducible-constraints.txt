@@ -1,0 +1,13 @@
+# Reference constraints for the environment used to validate this release.
+# These are exact validation versions, not a universal cross-platform lock.
+scikit-learn==1.8.0
+joblib==1.5.3
+numpy==2.3.5
+scipy==1.17.0
+fastapi==0.128.2
+uvicorn==0.48.0
+pydantic==2.13.4
+httpx==0.28.1
+pytest==9.0.2
+pytest-cov==7.0.0
+matplotlib==3.10.8

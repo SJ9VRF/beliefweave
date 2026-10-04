@@ -1,0 +1,10 @@
+services:
+  beliefweave-demo:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      BELIEFWEAVE_DEMO_TOKEN: ${BELIEFWEAVE_DEMO_TOKEN:?Set BELIEFWEAVE_DEMO_TOKEN before starting the public demo}
+      BELIEFWEAVE_DEMO_ENABLE_ML: ${BELIEFWEAVE_DEMO_ENABLE_ML:-0}
+    volumes:
+      - ./demo:/app/demo:ro

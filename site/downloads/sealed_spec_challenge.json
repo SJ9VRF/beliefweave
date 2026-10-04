@@ -1,0 +1,177 @@
+{
+  "suite": "BeliefWeave Sealed Specification Challenge",
+  "gate": "DecisionAwareBeliefGateV2",
+  "manifest_sha256": "36f9beeb1a0de5699694427a2becdabacea7d950477e6a69c83251f02773aa1d",
+  "n": 480,
+  "exact_action_accuracy": 0.5333333333333333,
+  "challenge_informed_v3_accuracy": 1.0,
+  "challenge_informed_v3_note": "V3 was written after inspecting this suite; its score is regression evidence, not independent generalization evidence.",
+  "family_breakdown": {
+    "archived_scoped_unknown": {
+      "n": 32,
+      "accuracy": 0.0,
+      "gold": "abstain",
+      "predicted_counts": {
+        "use": 0,
+        "ask": 32,
+        "abstain": 0
+      },
+      "note": "Archived evidence should not trigger clarification."
+    },
+    "conflict_plus_deleted": {
+      "n": 32,
+      "accuracy": 1.0,
+      "gold": "abstain",
+      "predicted_counts": {
+        "use": 0,
+        "ask": 0,
+        "abstain": 32
+      },
+      "note": "Deleted evidence should be ignored rather than clarified despite conflict flag."
+    },
+    "context_case_match": {
+      "n": 32,
+      "accuracy": 1.0,
+      "gold": "use",
+      "predicted_counts": {
+        "use": 32,
+        "ask": 0,
+        "abstain": 0
+      },
+      "note": "Context matching is case-insensitive."
+    },
+    "context_exact_match": {
+      "n": 32,
+      "accuracy": 1.0,
+      "gold": "use",
+      "predicted_counts": {
+        "use": 32,
+        "ask": 0,
+        "abstain": 0
+      },
+      "note": "Exact scoped context match with strong explicit evidence is usable."
+    },
+    "deleted_scoped_unknown": {
+      "n": 32,
+      "accuracy": 0.0,
+      "gold": "abstain",
+      "predicted_counts": {
+        "use": 0,
+        "ask": 32,
+        "abstain": 0
+      },
+      "note": "Lifecycle invalidity should dominate missing-context clarification."
+    },
+    "exact_validity_boundary": {
+      "n": 32,
+      "accuracy": 1.0,
+      "gold": "use",
+      "predicted_counts": {
+        "use": 32,
+        "ask": 0,
+        "abstain": 0
+      },
+      "note": "Validity intervals are inclusive at exact boundary."
+    },
+    "expired_scoped_unknown": {
+      "n": 32,
+      "accuracy": 0.0,
+      "gold": "abstain",
+      "predicted_counts": {
+        "use": 0,
+        "ask": 32,
+        "abstain": 0
+      },
+      "note": "Expiry should dominate missing-context clarification."
+    },
+    "implicit_verified_high": {
+      "n": 32,
+      "accuracy": 1.0,
+      "gold": "use",
+      "predicted_counts": {
+        "use": 32,
+        "ask": 0,
+        "abstain": 0
+      },
+      "note": "Verified implicit evidence can be used when authority is high."
+    },
+    "inferred_verified_high": {
+      "n": 32,
+      "accuracy": 1.0,
+      "gold": "use",
+      "predicted_counts": {
+        "use": 32,
+        "ask": 0,
+        "abstain": 0
+      },
+      "note": "Verified inferred evidence can cross the use threshold."
+    },
+    "malformed_valid_from": {
+      "n": 32,
+      "accuracy": 0.0,
+      "gold": "ask",
+      "predicted_counts": {
+        "use": 32,
+        "ask": 0,
+        "abstain": 0
+      },
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    "malformed_valid_until": {
+      "n": 32,
+      "accuracy": 0.0,
+      "gold": "ask",
+      "predicted_counts": {
+        "use": 32,
+        "ask": 0,
+        "abstain": 0
+      },
+      "note": "Malformed temporal metadata should fail closed to clarification rather than personalize."
+    },
+    "missing_provenance_high_conf": {
+      "n": 32,
+      "accuracy": 0.0,
+      "gold": "ask",
+      "predicted_counts": {
+        "use": 32,
+        "ask": 0,
+        "abstain": 0
+      },
+      "note": "High-confidence memory with no provenance should not immediately personalize."
+    },
+    "sensitive_unverified": {
+      "n": 32,
+      "accuracy": 0.0,
+      "gold": "ask",
+      "predicted_counts": {
+        "use": 32,
+        "ask": 0,
+        "abstain": 0
+      },
+      "note": "Sensitive unverified memory warrants confirmation before use."
+    },
+    "sensitive_verified": {
+      "n": 32,
+      "accuracy": 1.0,
+      "gold": "use",
+      "predicted_counts": {
+        "use": 32,
+        "ask": 0,
+        "abstain": 0
+      },
+      "note": "User verification can authorize use of otherwise sensitive memory in this contract."
+    },
+    "synthetic_verified": {
+      "n": 32,
+      "accuracy": 1.0,
+      "gold": "abstain",
+      "predicted_counts": {
+        "use": 0,
+        "ask": 0,
+        "abstain": 32
+      },
+      "note": "Synthetic provenance is not user-grounded authority even when marked verified."
+    }
+  },
+  "scientific_boundary": "Designed after V2 was frozen and executed without tuning V2 on this suite. It is still author-designed and therefore complements, rather than replaces, independent external or human evaluation."
+}

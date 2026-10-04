@@ -1,0 +1,11 @@
+{
+  "seed": 17,
+  "n_users": 50,
+  "n_turns": 40,
+  "n_records": 2000,
+  "run_a_sha256": "df34a7b895e6427dbefebf3b10eecc40058f67e494fa3f158b04dceed0066b5f",
+  "run_b_sha256": "df34a7b895e6427dbefebf3b10eecc40058f67e494fa3f158b04dceed0066b5f",
+  "different_seed_sha256": "4f1bc1e719c1a3546a6a5a7718f3b3b56c415372bf164bfb1c9498533a075bed",
+  "same_seed_identical": true,
+  "different_seed_changes_output": true
+}

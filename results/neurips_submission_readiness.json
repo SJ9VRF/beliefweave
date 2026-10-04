@@ -1,0 +1,14 @@
+{
+  "ready_for_official_neurips_template_submission": false,
+  "research_manuscript_exists": true,
+  "research_manuscript_pages": 9,
+  "official_style_file_present": false,
+  "source_loads_official_style": false,
+  "custom_geometry_detected": true,
+  "blockers": [
+    "official neurips_2026.sty is not bundled",
+    "paper source does not load neurips_2026.sty",
+    "paper source uses custom geometry rather than the official template"
+  ],
+  "claim_policy": "The research manuscript may be scientifically submission-oriented, but it is not labeled NeurIPS-format-ready until the official style is present and used without layout overrides."
+}

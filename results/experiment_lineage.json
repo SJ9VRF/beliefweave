@@ -1,0 +1,257 @@
+{
+  "environment": {
+    "implementation": "CPython",
+    "joblib": "1.5.3",
+    "numpy": "2.3.5",
+    "platform": "linux",
+    "python": "3.13.5",
+    "scikit_learn": "1.8.0",
+    "scipy": "1.17.0"
+  },
+  "experiments": [
+    {
+      "code": [
+        {
+          "path": "benchmark/paper_grade_eval.py",
+          "sha256": "b889ff33aafdcc27c7e8945b9a498c451542bfc06bb1a67f04dc91d66aa92673"
+        },
+        {
+          "path": "pwm/belief_governance.py",
+          "sha256": "7af53bc9798afb807fd23bed255b029b3cf34a22e67fd6a3b46b5613f5343044"
+        }
+      ],
+      "command": "python benchmark/paper_grade_eval.py",
+      "inputs": [
+        {
+          "path": "benchmark/beliefshift_v2_test_manifest.json",
+          "sha256": "92d85de0805b00a9a7ab8362b0ae00a0a37bd4a8569d25179c65d4e6d26040b0"
+        }
+      ],
+      "name": "paper_grade_eval",
+      "result": "results/paper_grade_eval.json",
+      "result_sha256": "525e79b3fbaf0badec4b6418e75da01099c1a8a41a910eb833178f4612a6b149"
+    },
+    {
+      "code": [
+        {
+          "path": "benchmark/behavior_intervention_eval.py",
+          "sha256": "c7eb05d945b52bea19af001721326f6c1fb2fda71cd85d813ff01b08a0b1c554"
+        },
+        {
+          "path": "pwm/belief_governance.py",
+          "sha256": "7af53bc9798afb807fd23bed255b029b3cf34a22e67fd6a3b46b5613f5343044"
+        }
+      ],
+      "command": "python benchmark/behavior_intervention_eval.py",
+      "inputs": [
+        {
+          "path": "benchmark/beliefshift_v2_test_manifest.json",
+          "sha256": "92d85de0805b00a9a7ab8362b0ae00a0a37bd4a8569d25179c65d4e6d26040b0"
+        }
+      ],
+      "name": "behavior_intervention",
+      "result": "results/behavior_intervention.json",
+      "result_sha256": "d9d8fb6731468f93d2a4385e9a4afea2cc7b777e17f5b52717b9def8478d091b"
+    },
+    {
+      "code": [
+        {
+          "path": "benchmark/sealed_spec_challenge.py",
+          "sha256": "71e2377e47be9d7adff091c575539529e78bdbe2d9143733e2ca3b2f3c136c17"
+        },
+        {
+          "path": "pwm/belief_governance.py",
+          "sha256": "7af53bc9798afb807fd23bed255b029b3cf34a22e67fd6a3b46b5613f5343044"
+        }
+      ],
+      "command": "python benchmark/sealed_spec_challenge.py",
+      "inputs": [
+        {
+          "path": "benchmark/sealed_spec_manifest.json",
+          "sha256": "893522caff65ea4eed3fcad64af2f343bb941540a261f57ff78b94276de0435a"
+        },
+        {
+          "path": "benchmark/sealed_spec_manifest.sha256",
+          "sha256": "499f214a8547f8349a4dae90c9dbc8757ee1247d9f6e0cb37aa482ff15b48269"
+        }
+      ],
+      "name": "sealed_spec_challenge",
+      "result": "results/sealed_spec_challenge.json",
+      "result_sha256": "adde5e80b35a88305c24531d68697e2bbf14a5b93372f2ea5bcff1fa02242b13"
+    },
+    {
+      "code": [
+        {
+          "path": "benchmark/authority_modelcheck.py",
+          "sha256": "081fcd11046b976c4d461cada1c776f3c81ae0e4d180270c5cb9b04ed892778f"
+        },
+        {
+          "path": "pwm/belief_governance.py",
+          "sha256": "7af53bc9798afb807fd23bed255b029b3cf34a22e67fd6a3b46b5613f5343044"
+        }
+      ],
+      "command": "python benchmark/authority_modelcheck.py",
+      "inputs": [],
+      "name": "authority_modelcheck",
+      "result": "results/authority_modelcheck.json",
+      "result_sha256": "e96a2171c39926ee820b1a4c17979e421e870030a6c5ee37e3246b7c91bd68e0"
+    },
+    {
+      "code": [
+        {
+          "path": "benchmark/privacy_erasure_eval.py",
+          "sha256": "94a0f126e72e0f2ae93459ecf3694c6bb86cb3f1b44e10e388a000b0ffcad50d"
+        },
+        {
+          "path": "pwm/engine.py",
+          "sha256": "9f1f02fa7ed34856ff1153fa49f29ef251adb17fba12f1bdee34fd7cfc0047ab"
+        },
+        {
+          "path": "pwm/integrity.py",
+          "sha256": "8d6bb011f8abf47aa28d68bfaff4536eddd0a20bca9047530eb2962873edf0ed"
+        }
+      ],
+      "command": "python benchmark/privacy_erasure_eval.py",
+      "inputs": [],
+      "name": "privacy_erasure",
+      "result": "results/privacy_erasure.json",
+      "result_sha256": "a2a73178cdd96e2020b137c0838a5ddee1f2a4826c6259c742136438af421f2a"
+    },
+    {
+      "code": [
+        {
+          "path": "benchmark/concurrency_integrity_eval.py",
+          "sha256": "6be2510e16dd04450da7895061130f27313ca761e77b78ae1406ea73249e7d67"
+        },
+        {
+          "path": "pwm/engine.py",
+          "sha256": "9f1f02fa7ed34856ff1153fa49f29ef251adb17fba12f1bdee34fd7cfc0047ab"
+        },
+        {
+          "path": "pwm/memory/store.py",
+          "sha256": "c6e6e293887d2081089931ca787db14e4f1befe3e7a2aae04157a5210cf87e72"
+        },
+        {
+          "path": "pwm/events/store.py",
+          "sha256": "c2c8f70b779fdc1b772c57a61a5825e6e7b3033bc65ce6653eed3659a663afaa"
+        }
+      ],
+      "command": "python benchmark/concurrency_integrity_eval.py",
+      "inputs": [],
+      "name": "concurrency_integrity",
+      "result": "results/concurrency_integrity.json",
+      "result_sha256": "c742f5a6a1ab805a23a5991e34ac72e981c6a4e6a9100ff1e5bbfeccfc5d0fe8"
+    },
+    {
+      "code": [
+        {
+          "path": "benchmark/atomicity_fault_injection_eval.py",
+          "sha256": "a5cde54c5f5f9aed77a6a7f6969b3b9ff7012671cb80d72a4d52d1f8e9bf2359"
+        },
+        {
+          "path": "pwm/engine.py",
+          "sha256": "9f1f02fa7ed34856ff1153fa49f29ef251adb17fba12f1bdee34fd7cfc0047ab"
+        },
+        {
+          "path": "pwm/memory/store.py",
+          "sha256": "c6e6e293887d2081089931ca787db14e4f1befe3e7a2aae04157a5210cf87e72"
+        },
+        {
+          "path": "pwm/events/store.py",
+          "sha256": "c2c8f70b779fdc1b772c57a61a5825e6e7b3033bc65ce6653eed3659a663afaa"
+        }
+      ],
+      "command": "python benchmark/atomicity_fault_injection_eval.py",
+      "inputs": [],
+      "name": "atomicity_fault_injection",
+      "result": "results/atomicity_fault_injection.json",
+      "result_sha256": "9b47d952a69da9ac3ecc6ceb432aa6b270263a37f65596a8a03d02276e0745e3"
+    },
+    {
+      "code": [
+        {
+          "path": "benchmark/horizon_scaling.py",
+          "sha256": "491a53e0ebf3315157e4a3c4a3244f41df719e8bce27d200b154831a06d14d6c"
+        },
+        {
+          "path": "pwm/engine.py",
+          "sha256": "9f1f02fa7ed34856ff1153fa49f29ef251adb17fba12f1bdee34fd7cfc0047ab"
+        }
+      ],
+      "command": "python benchmark/horizon_scaling.py",
+      "inputs": [],
+      "name": "horizon_scaling",
+      "result": "results/horizon_scaling.json",
+      "result_sha256": "7a28db6e308e4fa1876164014da0bd159885325ff1ced66de8311736c2093710"
+    },
+    {
+      "code": [
+        {
+          "path": "benchmark/evaluate_retrieval.py",
+          "sha256": "6584bc89a7fea1de847a6aebc7a2a9256157d817e6bc40ebd9a7444c1e379e83"
+        },
+        {
+          "path": "pwm/memory/retriever.py",
+          "sha256": "1c8bfd42ef05d1a7ff9ef048964996f3cb28a6704e9e42294828cb026471bf3c"
+        },
+        {
+          "path": "pwm/memory/semantic_retriever.py",
+          "sha256": "1d134d285e593a2570a3567ba57f4b9f9e7913d8533b0f0a5709021c171c4413"
+        }
+      ],
+      "command": "python benchmark/evaluate_retrieval.py",
+      "inputs": [],
+      "name": "retrieval_eval",
+      "result": "results/retrieval_eval.json",
+      "result_sha256": "3d540fa59f36899ef74ec6d67dd7060609933fc3eba4df50ec4e9bea0a6e8d23"
+    },
+    {
+      "code": [
+        {
+          "path": "benchmark/database_resilience.py",
+          "sha256": "4feca6b3c254a23e1bedbd4bd84c41ba19cb62031a17e2999259cf5c48f087be"
+        },
+        {
+          "path": "pwm/engine.py",
+          "sha256": "9f1f02fa7ed34856ff1153fa49f29ef251adb17fba12f1bdee34fd7cfc0047ab"
+        },
+        {
+          "path": "pwm/memory/store.py",
+          "sha256": "c6e6e293887d2081089931ca787db14e4f1befe3e7a2aae04157a5210cf87e72"
+        },
+        {
+          "path": "pwm/events/store.py",
+          "sha256": "c2c8f70b779fdc1b772c57a61a5825e6e7b3033bc65ce6653eed3659a663afaa"
+        }
+      ],
+      "command": "python benchmark/database_resilience.py",
+      "inputs": [],
+      "name": "database_resilience",
+      "result": "results/database_resilience.json",
+      "result_sha256": "44238022b9934fe8fb5d935892e8a3bad098bdf84c44aa6214a4852ca2461b16"
+    },
+    {
+      "code": [
+        {
+          "path": "benchmark/privacy_inventory_eval.py",
+          "sha256": "45633280a3375ecb8a7ce062c3e8470064be4912b8499c975db59e1c59e13561"
+        },
+        {
+          "path": "pwm/engine.py",
+          "sha256": "9f1f02fa7ed34856ff1153fa49f29ef251adb17fba12f1bdee34fd7cfc0047ab"
+        },
+        {
+          "path": "pwm/integrity.py",
+          "sha256": "8d6bb011f8abf47aa28d68bfaff4536eddd0a20bca9047530eb2962873edf0ed"
+        }
+      ],
+      "command": "python benchmark/privacy_inventory_eval.py",
+      "inputs": [],
+      "name": "privacy_inventory",
+      "result": "results/privacy_inventory.json",
+      "result_sha256": "210bd2b5d0c079cf3542c66a326822ced61418a9e01bddb8c1846f2ba6c0d7ff"
+    }
+  ],
+  "package_version": "0.17.0",
+  "schema": "beliefweave.experiment-lineage.v1"
+}

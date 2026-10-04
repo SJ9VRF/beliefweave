@@ -1,0 +1,244 @@
+{
+  "ood_router": {
+    "accuracy": 0.6578947368421053,
+    "total": 114,
+    "by_label": {
+      "PREFERENCE": {
+        "correct": 12,
+        "total": 18,
+        "accuracy": 0.6666666666666666
+      },
+      "GOAL": {
+        "correct": 10,
+        "total": 18,
+        "accuracy": 0.5555555555555556
+      },
+      "CONSTRAINT": {
+        "correct": 14,
+        "total": 18,
+        "accuracy": 0.7777777777777778
+      },
+      "COMMITMENT": {
+        "correct": 9,
+        "total": 18,
+        "accuracy": 0.5
+      },
+      "ROUTINE": {
+        "correct": 11,
+        "total": 18,
+        "accuracy": 0.6111111111111112
+      },
+      "NONE": {
+        "correct": 19,
+        "total": 24,
+        "accuracy": 0.7916666666666666
+      }
+    },
+    "selective": {
+      "0.5": {
+        "coverage": 0.7719298245614035,
+        "accuracy": 0.6818181818181818,
+        "n": 88
+      },
+      "0.6": {
+        "coverage": 0.5350877192982456,
+        "accuracy": 0.7377049180327869,
+        "n": 61
+      },
+      "0.7": {
+        "coverage": 0.32456140350877194,
+        "accuracy": 0.8378378378378378,
+        "n": 37
+      },
+      "0.8": {
+        "coverage": 0.22807017543859648,
+        "accuracy": 0.8461538461538461,
+        "n": 26
+      },
+      "0.9": {
+        "coverage": 0.08771929824561403,
+        "accuracy": 1.0,
+        "n": 10
+      }
+    }
+  },
+  "hybrid_conflict": {
+    "accuracy": 1.0,
+    "total": 12,
+    "errors": []
+  },
+  "engine_adversarial": {
+    "passed": 5,
+    "total": 5,
+    "scenarios": [
+      {
+        "name": "third_party",
+        "pass": true,
+        "active": []
+      },
+      {
+        "name": "roleplay",
+        "pass": true,
+        "active": []
+      },
+      {
+        "name": "unrelated",
+        "pass": true,
+        "active": [
+          {
+            "user_id": "u",
+            "subject": "user",
+            "predicate": "goal",
+            "value": "publish a paper",
+            "memory_type": "goal",
+            "source_type": "explicit",
+            "confidence": 0.95,
+            "source_event_ids": [
+              "evt_24fbb5ad819a"
+            ],
+            "created_at": "synthetic-time",
+            "updated_at": "synthetic-time",
+            "valid_from": "synthetic-time",
+            "valid_until": null,
+            "stability": 0.75,
+            "importance": 1.0,
+            "context_scope": null,
+            "status": "active",
+            "supersedes": null,
+            "conflicts_with": [],
+            "retrieval_count": 0,
+            "last_used_at": null,
+            "user_verified": false,
+            "privacy_level": "normal",
+            "correction_count": 0,
+            "id": "mem_8c91295d3071"
+          },
+          {
+            "user_id": "u",
+            "subject": "user",
+            "predicate": "likes",
+            "value": "quiet cafes",
+            "memory_type": "preference",
+            "source_type": "explicit",
+            "confidence": 0.94,
+            "source_event_ids": [
+              "evt_c4ddef10e68f"
+            ],
+            "created_at": "synthetic-time",
+            "updated_at": "synthetic-time",
+            "valid_from": "synthetic-time",
+            "valid_until": null,
+            "stability": 0.75,
+            "importance": 0.9504,
+            "context_scope": null,
+            "status": "active",
+            "supersedes": null,
+            "conflicts_with": [],
+            "retrieval_count": 0,
+            "last_used_at": null,
+            "user_verified": false,
+            "privacy_level": "normal",
+            "correction_count": 0,
+            "id": "mem_859c24516e4c"
+          }
+        ]
+      },
+      {
+        "name": "reversal",
+        "pass": true,
+        "active": [
+          {
+            "user_id": "u",
+            "subject": "user",
+            "predicate": "dislikes",
+            "value": "sushi",
+            "memory_type": "preference",
+            "source_type": "explicit",
+            "confidence": 0.99,
+            "source_event_ids": [
+              "evt_151a89720214"
+            ],
+            "created_at": "synthetic-time",
+            "updated_at": "synthetic-time",
+            "valid_from": "synthetic-time",
+            "valid_until": null,
+            "stability": 0.75,
+            "importance": 0.9584,
+            "context_scope": null,
+            "status": "active",
+            "supersedes": "mem_aa9a183e5d70",
+            "conflicts_with": [],
+            "retrieval_count": 0,
+            "last_used_at": null,
+            "user_verified": true,
+            "privacy_level": "normal",
+            "correction_count": 1,
+            "id": "mem_abbcc2b541cb"
+          }
+        ]
+      },
+      {
+        "name": "context",
+        "pass": true,
+        "active": [
+          {
+            "user_id": "u",
+            "subject": "user",
+            "predicate": "prefers",
+            "value": "casual tone",
+            "memory_type": "preference",
+            "source_type": "explicit",
+            "confidence": 0.95,
+            "source_event_ids": [
+              "evt_aa96b1b29355"
+            ],
+            "created_at": "synthetic-time",
+            "updated_at": "synthetic-time",
+            "valid_from": "synthetic-time",
+            "valid_until": null,
+            "stability": 0.75,
+            "importance": 0.952,
+            "context_scope": null,
+            "status": "active",
+            "supersedes": null,
+            "conflicts_with": [],
+            "retrieval_count": 0,
+            "last_used_at": null,
+            "user_verified": false,
+            "privacy_level": "normal",
+            "correction_count": 0,
+            "id": "mem_c8fc18ca3c29"
+          },
+          {
+            "user_id": "u",
+            "subject": "user",
+            "predicate": "prefers",
+            "value": "formal tone",
+            "memory_type": "preference",
+            "source_type": "explicit",
+            "confidence": 0.95,
+            "source_event_ids": [
+              "evt_51066486977c"
+            ],
+            "created_at": "synthetic-time",
+            "updated_at": "synthetic-time",
+            "valid_from": "synthetic-time",
+            "valid_until": null,
+            "stability": 0.75,
+            "importance": 0.952,
+            "context_scope": null,
+            "status": "active",
+            "supersedes": null,
+            "conflicts_with": [],
+            "retrieval_count": 0,
+            "last_used_at": null,
+            "user_verified": false,
+            "privacy_level": "normal",
+            "correction_count": 0,
+            "id": "mem_96f41e25a7d9"
+          }
+        ]
+      }
+    ]
+  }
+}

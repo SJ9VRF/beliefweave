@@ -1,0 +1,145 @@
+{
+  "entrypoint": "pwm = pwm.cli:main",
+  "ok": true,
+  "validation": {
+    "benchmark": {
+      "cases": 4,
+      "details": [
+        {
+          "active": [
+            [
+              "dislikes",
+              "sushi"
+            ]
+          ],
+          "case": 0,
+          "entity": "sushi",
+          "pass": true
+        },
+        {
+          "active": [
+            [
+              "dislikes",
+              "running"
+            ]
+          ],
+          "case": 1,
+          "entity": "running",
+          "pass": true
+        },
+        {
+          "active": [
+            [
+              "dislikes",
+              "coffee"
+            ]
+          ],
+          "case": 2,
+          "entity": "coffee",
+          "pass": true
+        },
+        {
+          "active": [
+            [
+              "dislikes",
+              "jazz"
+            ]
+          ],
+          "case": 3,
+          "entity": "jazz",
+          "pass": true
+        }
+      ],
+      "name": "installed-package smoke benchmark",
+      "note": "This is a packaging sanity benchmark, not MemWorldBench.",
+      "pass_rate": 1.0,
+      "passed": 4
+    },
+    "demo": {
+      "first_actions": 1,
+      "hard_forget_ok": true,
+      "memory_count_after_forget": 1,
+      "memory_count_before_forget": 2,
+      "recall": [
+        {
+          "reasons": {
+            "confidence": 0.99,
+            "context_bonus": 0.0,
+            "current_validity": 1.0,
+            "importance": 0.9584,
+            "lexical_overlap": 0.0,
+            "recency": 0.9999999999095937
+          },
+          "score": 0.5123759999909594,
+          "value": "sushi"
+        }
+      ],
+      "scenario": "preference reversal + retrieval + hard forget",
+      "second_actions": 1,
+      "state_after_reversal": {
+        "preference.dislikes": [
+          {
+            "confidence": 0.99,
+            "context": null,
+            "memory_id": "mem_cafcd5a326fd",
+            "provenance": [
+              "evt_9f07b7c01786"
+            ],
+            "valid_until": null,
+            "value": "sushi"
+          }
+        ]
+      }
+    },
+    "doctor": {
+      "checks": {
+        "core_runtime": {
+          "conflict_resolver": "ConflictResolver",
+          "extractor": "RuleBasedObservationExtractor",
+          "gate_version": "v3",
+          "ml_enabled": false,
+          "ok": true,
+          "required": true,
+          "retriever": "MemoryRetriever"
+        },
+        "database": {
+          "event_columns": 8,
+          "memory_columns": 24,
+          "ok": true,
+          "required": true,
+          "schema_version": 4,
+          "supported_schema_version": 4
+        },
+        "integrity": {
+          "errors": 0,
+          "ok": true,
+          "required": true,
+          "warnings": 0
+        },
+        "joblib": {
+          "ok": true,
+          "required": false,
+          "version": "1.5.3"
+        },
+        "learned_assets": {
+          "available": true,
+          "conflict_resolver": "HybridConflictResolver",
+          "extractor": "HybridObservationExtractor",
+          "ok": true,
+          "required": false
+        },
+        "scikit_learn": {
+          "ok": true,
+          "required": false,
+          "version": "1.8.0"
+        }
+      },
+      "db_path": "/tmp/pwm-wheel-doctor.db",
+      "ok": true,
+      "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+      "python": "3.13.5"
+    },
+    "version": "0.17.0"
+  },
+  "wheel": "beliefweave-0.17.0-py3-none-any.whl"
+}

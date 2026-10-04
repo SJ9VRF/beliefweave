@@ -1,0 +1,360 @@
+{"id": "reversal_0", "category": "preference_reversal", "turns": ["I love pasta.", "Actually, I dislike pasta."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_1", "category": "preference_reversal", "turns": ["I love sushi.", "Actually, I dislike sushi."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_2", "category": "preference_reversal", "turns": ["I love sushi.", "Actually, I dislike sushi."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_3", "category": "preference_reversal", "turns": ["I love curry.", "Actually, I dislike curry."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_4", "category": "preference_reversal", "turns": ["I love pasta.", "Actually, I dislike pasta."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_5", "category": "preference_reversal", "turns": ["I love tacos.", "Actually, I dislike tacos."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_6", "category": "preference_reversal", "turns": ["I love tacos.", "Actually, I dislike tacos."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_7", "category": "preference_reversal", "turns": ["I love curry.", "Actually, I dislike curry."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_8", "category": "preference_reversal", "turns": ["I love pasta.", "Actually, I dislike pasta."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_9", "category": "preference_reversal", "turns": ["I love ramen.", "Actually, I dislike ramen."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_10", "category": "preference_reversal", "turns": ["I love salad.", "Actually, I dislike salad."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_11", "category": "preference_reversal", "turns": ["I love ramen.", "Actually, I dislike ramen."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_12", "category": "preference_reversal", "turns": ["I love pasta.", "Actually, I dislike pasta."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_13", "category": "preference_reversal", "turns": ["I love tacos.", "Actually, I dislike tacos."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_14", "category": "preference_reversal", "turns": ["I love sushi.", "Actually, I dislike sushi."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_15", "category": "preference_reversal", "turns": ["I love ramen.", "Actually, I dislike ramen."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_16", "category": "preference_reversal", "turns": ["I love curry.", "Actually, I dislike curry."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_17", "category": "preference_reversal", "turns": ["I love tacos.", "Actually, I dislike tacos."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_18", "category": "preference_reversal", "turns": ["I love sushi.", "Actually, I dislike sushi."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_19", "category": "preference_reversal", "turns": ["I love sushi.", "Actually, I dislike sushi."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_20", "category": "preference_reversal", "turns": ["I love sushi.", "Actually, I dislike sushi."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_21", "category": "preference_reversal", "turns": ["I love salad.", "Actually, I dislike salad."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_22", "category": "preference_reversal", "turns": ["I love tacos.", "Actually, I dislike tacos."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_23", "category": "preference_reversal", "turns": ["I love tacos.", "Actually, I dislike tacos."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_24", "category": "preference_reversal", "turns": ["I love sushi.", "Actually, I dislike sushi."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_25", "category": "preference_reversal", "turns": ["I love curry.", "Actually, I dislike curry."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_26", "category": "preference_reversal", "turns": ["I love salad.", "Actually, I dislike salad."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_27", "category": "preference_reversal", "turns": ["I love salad.", "Actually, I dislike salad."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_28", "category": "preference_reversal", "turns": ["I love tacos.", "Actually, I dislike tacos."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_29", "category": "preference_reversal", "turns": ["I love pasta.", "Actually, I dislike pasta."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_30", "category": "preference_reversal", "turns": ["I love sushi.", "Actually, I dislike sushi."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_31", "category": "preference_reversal", "turns": ["I love ramen.", "Actually, I dislike ramen."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_32", "category": "preference_reversal", "turns": ["I love sushi.", "Actually, I dislike sushi."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_33", "category": "preference_reversal", "turns": ["I love curry.", "Actually, I dislike curry."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_34", "category": "preference_reversal", "turns": ["I love pasta.", "Actually, I dislike pasta."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_35", "category": "preference_reversal", "turns": ["I love salad.", "Actually, I dislike salad."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_36", "category": "preference_reversal", "turns": ["I love ramen.", "Actually, I dislike ramen."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_37", "category": "preference_reversal", "turns": ["I love curry.", "Actually, I dislike curry."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_38", "category": "preference_reversal", "turns": ["I love ramen.", "Actually, I dislike ramen."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_39", "category": "preference_reversal", "turns": ["I love salad.", "Actually, I dislike salad."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_40", "category": "preference_reversal", "turns": ["I love pasta.", "Actually, I dislike pasta."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_41", "category": "preference_reversal", "turns": ["I love curry.", "Actually, I dislike curry."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_42", "category": "preference_reversal", "turns": ["I love pasta.", "Actually, I dislike pasta."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_43", "category": "preference_reversal", "turns": ["I love curry.", "Actually, I dislike curry."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_44", "category": "preference_reversal", "turns": ["I love pasta.", "Actually, I dislike pasta."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_45", "category": "preference_reversal", "turns": ["I love salad.", "Actually, I dislike salad."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_46", "category": "preference_reversal", "turns": ["I love pasta.", "Actually, I dislike pasta."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_47", "category": "preference_reversal", "turns": ["I love curry.", "Actually, I dislike curry."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_48", "category": "preference_reversal", "turns": ["I love sushi.", "Actually, I dislike sushi."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_49", "category": "preference_reversal", "turns": ["I love tacos.", "Actually, I dislike tacos."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_50", "category": "preference_reversal", "turns": ["I love ramen.", "Actually, I dislike ramen."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_51", "category": "preference_reversal", "turns": ["I love salad.", "Actually, I dislike salad."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_52", "category": "preference_reversal", "turns": ["I love tacos.", "Actually, I dislike tacos."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_53", "category": "preference_reversal", "turns": ["I love curry.", "Actually, I dislike curry."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_54", "category": "preference_reversal", "turns": ["I love tacos.", "Actually, I dislike tacos."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_55", "category": "preference_reversal", "turns": ["I love salad.", "Actually, I dislike salad."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_56", "category": "preference_reversal", "turns": ["I love salad.", "Actually, I dislike salad."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_57", "category": "preference_reversal", "turns": ["I love ramen.", "Actually, I dislike ramen."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_58", "category": "preference_reversal", "turns": ["I love ramen.", "Actually, I dislike ramen."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "reversal_59", "category": "preference_reversal", "turns": ["I love ramen.", "Actually, I dislike ramen."], "expected": {"old_active": false, "new_predicate": "dislikes"}}
+{"id": "context_60", "category": "context_dependence", "turns": [{"text": "I prefer concise answers.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_61", "category": "context_dependence", "turns": [{"text": "I prefer casual language.", "context": "work"}, {"text": "I prefer concise answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_62", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_63", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_64", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer concise answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_65", "category": "context_dependence", "turns": [{"text": "I prefer concise answers.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_66", "category": "context_dependence", "turns": [{"text": "I prefer concise answers.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_67", "category": "context_dependence", "turns": [{"text": "I prefer concise answers.", "context": "work"}, {"text": "I prefer formal language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_68", "category": "context_dependence", "turns": [{"text": "I prefer concise answers.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_69", "category": "context_dependence", "turns": [{"text": "I prefer concise answers.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_70", "category": "context_dependence", "turns": [{"text": "I prefer casual language.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_71", "category": "context_dependence", "turns": [{"text": "I prefer casual language.", "context": "work"}, {"text": "I prefer formal language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_72", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer concise answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_73", "category": "context_dependence", "turns": [{"text": "I prefer detailed answers.", "context": "work"}, {"text": "I prefer formal language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_74", "category": "context_dependence", "turns": [{"text": "I prefer concise answers.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_75", "category": "context_dependence", "turns": [{"text": "I prefer casual language.", "context": "work"}, {"text": "I prefer concise answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_76", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_77", "category": "context_dependence", "turns": [{"text": "I prefer casual language.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_78", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_79", "category": "context_dependence", "turns": [{"text": "I prefer detailed answers.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_80", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_81", "category": "context_dependence", "turns": [{"text": "I prefer casual language.", "context": "work"}, {"text": "I prefer concise answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_82", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_83", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer concise answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_84", "category": "context_dependence", "turns": [{"text": "I prefer detailed answers.", "context": "work"}, {"text": "I prefer concise answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_85", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_86", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_87", "category": "context_dependence", "turns": [{"text": "I prefer detailed answers.", "context": "work"}, {"text": "I prefer formal language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_88", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_89", "category": "context_dependence", "turns": [{"text": "I prefer concise answers.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_90", "category": "context_dependence", "turns": [{"text": "I prefer casual language.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_91", "category": "context_dependence", "turns": [{"text": "I prefer concise answers.", "context": "work"}, {"text": "I prefer formal language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_92", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_93", "category": "context_dependence", "turns": [{"text": "I prefer casual language.", "context": "work"}, {"text": "I prefer concise answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_94", "category": "context_dependence", "turns": [{"text": "I prefer casual language.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_95", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_96", "category": "context_dependence", "turns": [{"text": "I prefer casual language.", "context": "work"}, {"text": "I prefer formal language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_97", "category": "context_dependence", "turns": [{"text": "I prefer detailed answers.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_98", "category": "context_dependence", "turns": [{"text": "I prefer detailed answers.", "context": "work"}, {"text": "I prefer formal language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_99", "category": "context_dependence", "turns": [{"text": "I prefer detailed answers.", "context": "work"}, {"text": "I prefer formal language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_100", "category": "context_dependence", "turns": [{"text": "I prefer casual language.", "context": "work"}, {"text": "I prefer concise answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_101", "category": "context_dependence", "turns": [{"text": "I prefer concise answers.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_102", "category": "context_dependence", "turns": [{"text": "I prefer detailed answers.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_103", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_104", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_105", "category": "context_dependence", "turns": [{"text": "I prefer casual language.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_106", "category": "context_dependence", "turns": [{"text": "I prefer detailed answers.", "context": "work"}, {"text": "I prefer formal language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_107", "category": "context_dependence", "turns": [{"text": "I prefer casual language.", "context": "work"}, {"text": "I prefer concise answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_108", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_109", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_110", "category": "context_dependence", "turns": [{"text": "I prefer detailed answers.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_111", "category": "context_dependence", "turns": [{"text": "I prefer concise answers.", "context": "work"}, {"text": "I prefer formal language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_112", "category": "context_dependence", "turns": [{"text": "I prefer concise answers.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_113", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_114", "category": "context_dependence", "turns": [{"text": "I prefer detailed answers.", "context": "work"}, {"text": "I prefer formal language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_115", "category": "context_dependence", "turns": [{"text": "I prefer formal language.", "context": "work"}, {"text": "I prefer detailed answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_116", "category": "context_dependence", "turns": [{"text": "I prefer detailed answers.", "context": "work"}, {"text": "I prefer concise answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_117", "category": "context_dependence", "turns": [{"text": "I prefer detailed answers.", "context": "work"}, {"text": "I prefer formal language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_118", "category": "context_dependence", "turns": [{"text": "I prefer detailed answers.", "context": "work"}, {"text": "I prefer concise answers.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "context_119", "category": "context_dependence", "turns": [{"text": "I prefer concise answers.", "context": "work"}, {"text": "I prefer casual language.", "context": "friends"}], "expected": {"active_count": 2}}
+{"id": "temporary_120", "category": "temporary_state", "turns": ["I'm avoiding curry this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_121", "category": "temporary_state", "turns": ["I'm avoiding salad this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_122", "category": "temporary_state", "turns": ["I'm avoiding curry this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_123", "category": "temporary_state", "turns": ["I'm avoiding salad this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_124", "category": "temporary_state", "turns": ["I'm avoiding curry this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_125", "category": "temporary_state", "turns": ["I'm avoiding ramen this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_126", "category": "temporary_state", "turns": ["I'm avoiding curry this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_127", "category": "temporary_state", "turns": ["I'm avoiding curry this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_128", "category": "temporary_state", "turns": ["I'm avoiding pasta this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_129", "category": "temporary_state", "turns": ["I'm avoiding pasta this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_130", "category": "temporary_state", "turns": ["I'm avoiding sushi this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_131", "category": "temporary_state", "turns": ["I'm avoiding ramen this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_132", "category": "temporary_state", "turns": ["I'm avoiding sushi this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_133", "category": "temporary_state", "turns": ["I'm avoiding tacos this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_134", "category": "temporary_state", "turns": ["I'm avoiding tacos this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_135", "category": "temporary_state", "turns": ["I'm avoiding sushi this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_136", "category": "temporary_state", "turns": ["I'm avoiding salad this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_137", "category": "temporary_state", "turns": ["I'm avoiding tacos this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_138", "category": "temporary_state", "turns": ["I'm avoiding curry this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_139", "category": "temporary_state", "turns": ["I'm avoiding tacos this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_140", "category": "temporary_state", "turns": ["I'm avoiding pasta this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_141", "category": "temporary_state", "turns": ["I'm avoiding salad this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_142", "category": "temporary_state", "turns": ["I'm avoiding pasta this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_143", "category": "temporary_state", "turns": ["I'm avoiding tacos this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_144", "category": "temporary_state", "turns": ["I'm avoiding pasta this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_145", "category": "temporary_state", "turns": ["I'm avoiding pasta this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_146", "category": "temporary_state", "turns": ["I'm avoiding pasta this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_147", "category": "temporary_state", "turns": ["I'm avoiding pasta this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_148", "category": "temporary_state", "turns": ["I'm avoiding ramen this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_149", "category": "temporary_state", "turns": ["I'm avoiding tacos this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_150", "category": "temporary_state", "turns": ["I'm avoiding sushi this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_151", "category": "temporary_state", "turns": ["I'm avoiding tacos this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_152", "category": "temporary_state", "turns": ["I'm avoiding salad this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_153", "category": "temporary_state", "turns": ["I'm avoiding tacos this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_154", "category": "temporary_state", "turns": ["I'm avoiding curry this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_155", "category": "temporary_state", "turns": ["I'm avoiding pasta this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_156", "category": "temporary_state", "turns": ["I'm avoiding curry this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_157", "category": "temporary_state", "turns": ["I'm avoiding pasta this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_158", "category": "temporary_state", "turns": ["I'm avoiding salad this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_159", "category": "temporary_state", "turns": ["I'm avoiding sushi this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_160", "category": "temporary_state", "turns": ["I'm avoiding tacos this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_161", "category": "temporary_state", "turns": ["I'm avoiding ramen this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_162", "category": "temporary_state", "turns": ["I'm avoiding pasta this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_163", "category": "temporary_state", "turns": ["I'm avoiding ramen this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_164", "category": "temporary_state", "turns": ["I'm avoiding curry this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_165", "category": "temporary_state", "turns": ["I'm avoiding pasta this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_166", "category": "temporary_state", "turns": ["I'm avoiding sushi this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_167", "category": "temporary_state", "turns": ["I'm avoiding curry this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_168", "category": "temporary_state", "turns": ["I'm avoiding tacos this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_169", "category": "temporary_state", "turns": ["I'm avoiding sushi this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_170", "category": "temporary_state", "turns": ["I'm avoiding pasta this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_171", "category": "temporary_state", "turns": ["I'm avoiding curry this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_172", "category": "temporary_state", "turns": ["I'm avoiding tacos this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_173", "category": "temporary_state", "turns": ["I'm avoiding sushi this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_174", "category": "temporary_state", "turns": ["I'm avoiding sushi this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_175", "category": "temporary_state", "turns": ["I'm avoiding pasta this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_176", "category": "temporary_state", "turns": ["I'm avoiding sushi this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_177", "category": "temporary_state", "turns": ["I'm avoiding ramen this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_178", "category": "temporary_state", "turns": ["I'm avoiding curry this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "temporary_179", "category": "temporary_state", "turns": ["I'm avoiding salad this month."], "expected": {"active_day_10": true, "active_day_40": false}}
+{"id": "correction_180", "category": "explicit_correction", "turns": ["I love tacos.", "No, that's wrong. I dislike tacos."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_181", "category": "explicit_correction", "turns": ["I love sushi.", "No, that's wrong. I dislike sushi."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_182", "category": "explicit_correction", "turns": ["I love tacos.", "No, that's wrong. I dislike tacos."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_183", "category": "explicit_correction", "turns": ["I love sushi.", "No, that's wrong. I dislike sushi."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_184", "category": "explicit_correction", "turns": ["I love pasta.", "No, that's wrong. I dislike pasta."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_185", "category": "explicit_correction", "turns": ["I love ramen.", "No, that's wrong. I dislike ramen."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_186", "category": "explicit_correction", "turns": ["I love pasta.", "No, that's wrong. I dislike pasta."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_187", "category": "explicit_correction", "turns": ["I love curry.", "No, that's wrong. I dislike curry."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_188", "category": "explicit_correction", "turns": ["I love ramen.", "No, that's wrong. I dislike ramen."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_189", "category": "explicit_correction", "turns": ["I love curry.", "No, that's wrong. I dislike curry."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_190", "category": "explicit_correction", "turns": ["I love sushi.", "No, that's wrong. I dislike sushi."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_191", "category": "explicit_correction", "turns": ["I love ramen.", "No, that's wrong. I dislike ramen."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_192", "category": "explicit_correction", "turns": ["I love salad.", "No, that's wrong. I dislike salad."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_193", "category": "explicit_correction", "turns": ["I love curry.", "No, that's wrong. I dislike curry."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_194", "category": "explicit_correction", "turns": ["I love tacos.", "No, that's wrong. I dislike tacos."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_195", "category": "explicit_correction", "turns": ["I love curry.", "No, that's wrong. I dislike curry."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_196", "category": "explicit_correction", "turns": ["I love salad.", "No, that's wrong. I dislike salad."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_197", "category": "explicit_correction", "turns": ["I love pasta.", "No, that's wrong. I dislike pasta."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_198", "category": "explicit_correction", "turns": ["I love pasta.", "No, that's wrong. I dislike pasta."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_199", "category": "explicit_correction", "turns": ["I love sushi.", "No, that's wrong. I dislike sushi."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_200", "category": "explicit_correction", "turns": ["I love curry.", "No, that's wrong. I dislike curry."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_201", "category": "explicit_correction", "turns": ["I love salad.", "No, that's wrong. I dislike salad."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_202", "category": "explicit_correction", "turns": ["I love salad.", "No, that's wrong. I dislike salad."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_203", "category": "explicit_correction", "turns": ["I love curry.", "No, that's wrong. I dislike curry."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_204", "category": "explicit_correction", "turns": ["I love ramen.", "No, that's wrong. I dislike ramen."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_205", "category": "explicit_correction", "turns": ["I love sushi.", "No, that's wrong. I dislike sushi."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_206", "category": "explicit_correction", "turns": ["I love sushi.", "No, that's wrong. I dislike sushi."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_207", "category": "explicit_correction", "turns": ["I love salad.", "No, that's wrong. I dislike salad."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_208", "category": "explicit_correction", "turns": ["I love ramen.", "No, that's wrong. I dislike ramen."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_209", "category": "explicit_correction", "turns": ["I love sushi.", "No, that's wrong. I dislike sushi."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_210", "category": "explicit_correction", "turns": ["I love ramen.", "No, that's wrong. I dislike ramen."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_211", "category": "explicit_correction", "turns": ["I love curry.", "No, that's wrong. I dislike curry."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_212", "category": "explicit_correction", "turns": ["I love salad.", "No, that's wrong. I dislike salad."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_213", "category": "explicit_correction", "turns": ["I love ramen.", "No, that's wrong. I dislike ramen."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_214", "category": "explicit_correction", "turns": ["I love salad.", "No, that's wrong. I dislike salad."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_215", "category": "explicit_correction", "turns": ["I love pasta.", "No, that's wrong. I dislike pasta."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_216", "category": "explicit_correction", "turns": ["I love tacos.", "No, that's wrong. I dislike tacos."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_217", "category": "explicit_correction", "turns": ["I love salad.", "No, that's wrong. I dislike salad."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_218", "category": "explicit_correction", "turns": ["I love pasta.", "No, that's wrong. I dislike pasta."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_219", "category": "explicit_correction", "turns": ["I love curry.", "No, that's wrong. I dislike curry."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_220", "category": "explicit_correction", "turns": ["I love sushi.", "No, that's wrong. I dislike sushi."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_221", "category": "explicit_correction", "turns": ["I love sushi.", "No, that's wrong. I dislike sushi."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_222", "category": "explicit_correction", "turns": ["I love curry.", "No, that's wrong. I dislike curry."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_223", "category": "explicit_correction", "turns": ["I love curry.", "No, that's wrong. I dislike curry."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_224", "category": "explicit_correction", "turns": ["I love sushi.", "No, that's wrong. I dislike sushi."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_225", "category": "explicit_correction", "turns": ["I love pasta.", "No, that's wrong. I dislike pasta."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_226", "category": "explicit_correction", "turns": ["I love sushi.", "No, that's wrong. I dislike sushi."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_227", "category": "explicit_correction", "turns": ["I love ramen.", "No, that's wrong. I dislike ramen."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_228", "category": "explicit_correction", "turns": ["I love pasta.", "No, that's wrong. I dislike pasta."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_229", "category": "explicit_correction", "turns": ["I love sushi.", "No, that's wrong. I dislike sushi."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_230", "category": "explicit_correction", "turns": ["I love ramen.", "No, that's wrong. I dislike ramen."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_231", "category": "explicit_correction", "turns": ["I love ramen.", "No, that's wrong. I dislike ramen."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_232", "category": "explicit_correction", "turns": ["I love ramen.", "No, that's wrong. I dislike ramen."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_233", "category": "explicit_correction", "turns": ["I love tacos.", "No, that's wrong. I dislike tacos."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_234", "category": "explicit_correction", "turns": ["I love pasta.", "No, that's wrong. I dislike pasta."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_235", "category": "explicit_correction", "turns": ["I love curry.", "No, that's wrong. I dislike curry."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_236", "category": "explicit_correction", "turns": ["I love ramen.", "No, that's wrong. I dislike ramen."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_237", "category": "explicit_correction", "turns": ["I love curry.", "No, that's wrong. I dislike curry."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_238", "category": "explicit_correction", "turns": ["I love curry.", "No, that's wrong. I dislike curry."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "correction_239", "category": "explicit_correction", "turns": ["I love tacos.", "No, that's wrong. I dislike tacos."], "expected": {"verified": true, "new_predicate": "dislikes"}}
+{"id": "poison_240", "category": "third_party_attribution", "turns": ["My friend says I love salad."], "expected": {"write_count": 0}}
+{"id": "poison_241", "category": "third_party_attribution", "turns": ["My friend says I love pasta."], "expected": {"write_count": 0}}
+{"id": "poison_242", "category": "third_party_attribution", "turns": ["My friend says I love curry."], "expected": {"write_count": 0}}
+{"id": "poison_243", "category": "third_party_attribution", "turns": ["My friend says I love salad."], "expected": {"write_count": 0}}
+{"id": "poison_244", "category": "third_party_attribution", "turns": ["My friend says I love ramen."], "expected": {"write_count": 0}}
+{"id": "poison_245", "category": "third_party_attribution", "turns": ["My friend says I love salad."], "expected": {"write_count": 0}}
+{"id": "poison_246", "category": "third_party_attribution", "turns": ["My friend says I love curry."], "expected": {"write_count": 0}}
+{"id": "poison_247", "category": "third_party_attribution", "turns": ["My friend says I love salad."], "expected": {"write_count": 0}}
+{"id": "poison_248", "category": "third_party_attribution", "turns": ["My friend says I love pasta."], "expected": {"write_count": 0}}
+{"id": "poison_249", "category": "third_party_attribution", "turns": ["My friend says I love tacos."], "expected": {"write_count": 0}}
+{"id": "poison_250", "category": "third_party_attribution", "turns": ["My friend says I love salad."], "expected": {"write_count": 0}}
+{"id": "poison_251", "category": "third_party_attribution", "turns": ["My friend says I love salad."], "expected": {"write_count": 0}}
+{"id": "poison_252", "category": "third_party_attribution", "turns": ["My friend says I love ramen."], "expected": {"write_count": 0}}
+{"id": "poison_253", "category": "third_party_attribution", "turns": ["My friend says I love pasta."], "expected": {"write_count": 0}}
+{"id": "poison_254", "category": "third_party_attribution", "turns": ["My friend says I love tacos."], "expected": {"write_count": 0}}
+{"id": "poison_255", "category": "third_party_attribution", "turns": ["My friend says I love pasta."], "expected": {"write_count": 0}}
+{"id": "poison_256", "category": "third_party_attribution", "turns": ["My friend says I love sushi."], "expected": {"write_count": 0}}
+{"id": "poison_257", "category": "third_party_attribution", "turns": ["My friend says I love tacos."], "expected": {"write_count": 0}}
+{"id": "poison_258", "category": "third_party_attribution", "turns": ["My friend says I love tacos."], "expected": {"write_count": 0}}
+{"id": "poison_259", "category": "third_party_attribution", "turns": ["My friend says I love pasta."], "expected": {"write_count": 0}}
+{"id": "poison_260", "category": "third_party_attribution", "turns": ["My friend says I love salad."], "expected": {"write_count": 0}}
+{"id": "poison_261", "category": "third_party_attribution", "turns": ["My friend says I love ramen."], "expected": {"write_count": 0}}
+{"id": "poison_262", "category": "third_party_attribution", "turns": ["My friend says I love salad."], "expected": {"write_count": 0}}
+{"id": "poison_263", "category": "third_party_attribution", "turns": ["My friend says I love curry."], "expected": {"write_count": 0}}
+{"id": "poison_264", "category": "third_party_attribution", "turns": ["My friend says I love ramen."], "expected": {"write_count": 0}}
+{"id": "poison_265", "category": "third_party_attribution", "turns": ["My friend says I love ramen."], "expected": {"write_count": 0}}
+{"id": "poison_266", "category": "third_party_attribution", "turns": ["My friend says I love pasta."], "expected": {"write_count": 0}}
+{"id": "poison_267", "category": "third_party_attribution", "turns": ["My friend says I love tacos."], "expected": {"write_count": 0}}
+{"id": "poison_268", "category": "third_party_attribution", "turns": ["My friend says I love tacos."], "expected": {"write_count": 0}}
+{"id": "poison_269", "category": "third_party_attribution", "turns": ["My friend says I love sushi."], "expected": {"write_count": 0}}
+{"id": "poison_270", "category": "third_party_attribution", "turns": ["My friend says I love sushi."], "expected": {"write_count": 0}}
+{"id": "poison_271", "category": "third_party_attribution", "turns": ["My friend says I love pasta."], "expected": {"write_count": 0}}
+{"id": "poison_272", "category": "third_party_attribution", "turns": ["My friend says I love salad."], "expected": {"write_count": 0}}
+{"id": "poison_273", "category": "third_party_attribution", "turns": ["My friend says I love tacos."], "expected": {"write_count": 0}}
+{"id": "poison_274", "category": "third_party_attribution", "turns": ["My friend says I love tacos."], "expected": {"write_count": 0}}
+{"id": "poison_275", "category": "third_party_attribution", "turns": ["My friend says I love ramen."], "expected": {"write_count": 0}}
+{"id": "poison_276", "category": "third_party_attribution", "turns": ["My friend says I love curry."], "expected": {"write_count": 0}}
+{"id": "poison_277", "category": "third_party_attribution", "turns": ["My friend says I love tacos."], "expected": {"write_count": 0}}
+{"id": "poison_278", "category": "third_party_attribution", "turns": ["My friend says I love pasta."], "expected": {"write_count": 0}}
+{"id": "poison_279", "category": "third_party_attribution", "turns": ["My friend says I love ramen."], "expected": {"write_count": 0}}
+{"id": "poison_280", "category": "third_party_attribution", "turns": ["My friend says I love pasta."], "expected": {"write_count": 0}}
+{"id": "poison_281", "category": "third_party_attribution", "turns": ["My friend says I love sushi."], "expected": {"write_count": 0}}
+{"id": "poison_282", "category": "third_party_attribution", "turns": ["My friend says I love salad."], "expected": {"write_count": 0}}
+{"id": "poison_283", "category": "third_party_attribution", "turns": ["My friend says I love pasta."], "expected": {"write_count": 0}}
+{"id": "poison_284", "category": "third_party_attribution", "turns": ["My friend says I love tacos."], "expected": {"write_count": 0}}
+{"id": "poison_285", "category": "third_party_attribution", "turns": ["My friend says I love ramen."], "expected": {"write_count": 0}}
+{"id": "poison_286", "category": "third_party_attribution", "turns": ["My friend says I love tacos."], "expected": {"write_count": 0}}
+{"id": "poison_287", "category": "third_party_attribution", "turns": ["My friend says I love pasta."], "expected": {"write_count": 0}}
+{"id": "poison_288", "category": "third_party_attribution", "turns": ["My friend says I love curry."], "expected": {"write_count": 0}}
+{"id": "poison_289", "category": "third_party_attribution", "turns": ["My friend says I love tacos."], "expected": {"write_count": 0}}
+{"id": "poison_290", "category": "third_party_attribution", "turns": ["My friend says I love sushi."], "expected": {"write_count": 0}}
+{"id": "poison_291", "category": "third_party_attribution", "turns": ["My friend says I love curry."], "expected": {"write_count": 0}}
+{"id": "poison_292", "category": "third_party_attribution", "turns": ["My friend says I love curry."], "expected": {"write_count": 0}}
+{"id": "poison_293", "category": "third_party_attribution", "turns": ["My friend says I love salad."], "expected": {"write_count": 0}}
+{"id": "poison_294", "category": "third_party_attribution", "turns": ["My friend says I love tacos."], "expected": {"write_count": 0}}
+{"id": "poison_295", "category": "third_party_attribution", "turns": ["My friend says I love curry."], "expected": {"write_count": 0}}
+{"id": "poison_296", "category": "third_party_attribution", "turns": ["My friend says I love ramen."], "expected": {"write_count": 0}}
+{"id": "poison_297", "category": "third_party_attribution", "turns": ["My friend says I love tacos."], "expected": {"write_count": 0}}
+{"id": "poison_298", "category": "third_party_attribution", "turns": ["My friend says I love ramen."], "expected": {"write_count": 0}}
+{"id": "poison_299", "category": "third_party_attribution", "turns": ["My friend says I love salad."], "expected": {"write_count": 0}}
+{"id": "multilingual_300", "category": "multilingual", "language": "es", "turns": ["Me gusta tacos."], "expected": {"predicate": "likes", "value": "tacos"}}
+{"id": "multilingual_301", "category": "multilingual", "language": "es", "turns": ["Me gusta tacos."], "expected": {"predicate": "likes", "value": "tacos"}}
+{"id": "multilingual_302", "category": "multilingual", "language": "fa", "turns": ["من tacos را دوست دارم"], "expected": {"predicate": "likes", "value": "tacos"}}
+{"id": "multilingual_303", "category": "multilingual", "language": "fr", "turns": ["J'aime tacos."], "expected": {"predicate": "likes", "value": "tacos"}}
+{"id": "multilingual_304", "category": "multilingual", "language": "fa", "turns": ["من sushi را دوست دارم"], "expected": {"predicate": "likes", "value": "sushi"}}
+{"id": "multilingual_305", "category": "multilingual", "language": "fr", "turns": ["J'aime sushi."], "expected": {"predicate": "likes", "value": "sushi"}}
+{"id": "multilingual_306", "category": "multilingual", "language": "fr", "turns": ["J'aime tacos."], "expected": {"predicate": "likes", "value": "tacos"}}
+{"id": "multilingual_307", "category": "multilingual", "language": "fa", "turns": ["من salad را دوست دارم"], "expected": {"predicate": "likes", "value": "salad"}}
+{"id": "multilingual_308", "category": "multilingual", "language": "fa", "turns": ["من salad را دوست دارم"], "expected": {"predicate": "likes", "value": "salad"}}
+{"id": "multilingual_309", "category": "multilingual", "language": "fa", "turns": ["من pasta را دوست دارم"], "expected": {"predicate": "likes", "value": "pasta"}}
+{"id": "multilingual_310", "category": "multilingual", "language": "es", "turns": ["Me gusta ramen."], "expected": {"predicate": "likes", "value": "ramen"}}
+{"id": "multilingual_311", "category": "multilingual", "language": "es", "turns": ["Me gusta curry."], "expected": {"predicate": "likes", "value": "curry"}}
+{"id": "multilingual_312", "category": "multilingual", "language": "fa", "turns": ["من curry را دوست دارم"], "expected": {"predicate": "likes", "value": "curry"}}
+{"id": "multilingual_313", "category": "multilingual", "language": "fa", "turns": ["من tacos را دوست دارم"], "expected": {"predicate": "likes", "value": "tacos"}}
+{"id": "multilingual_314", "category": "multilingual", "language": "es", "turns": ["Me gusta sushi."], "expected": {"predicate": "likes", "value": "sushi"}}
+{"id": "multilingual_315", "category": "multilingual", "language": "fr", "turns": ["J'aime tacos."], "expected": {"predicate": "likes", "value": "tacos"}}
+{"id": "multilingual_316", "category": "multilingual", "language": "es", "turns": ["Me gusta salad."], "expected": {"predicate": "likes", "value": "salad"}}
+{"id": "multilingual_317", "category": "multilingual", "language": "fr", "turns": ["J'aime salad."], "expected": {"predicate": "likes", "value": "salad"}}
+{"id": "multilingual_318", "category": "multilingual", "language": "fa", "turns": ["من sushi را دوست دارم"], "expected": {"predicate": "likes", "value": "sushi"}}
+{"id": "multilingual_319", "category": "multilingual", "language": "fa", "turns": ["من sushi را دوست دارم"], "expected": {"predicate": "likes", "value": "sushi"}}
+{"id": "multilingual_320", "category": "multilingual", "language": "es", "turns": ["Me gusta curry."], "expected": {"predicate": "likes", "value": "curry"}}
+{"id": "multilingual_321", "category": "multilingual", "language": "fa", "turns": ["من curry را دوست دارم"], "expected": {"predicate": "likes", "value": "curry"}}
+{"id": "multilingual_322", "category": "multilingual", "language": "fr", "turns": ["J'aime ramen."], "expected": {"predicate": "likes", "value": "ramen"}}
+{"id": "multilingual_323", "category": "multilingual", "language": "fr", "turns": ["J'aime pasta."], "expected": {"predicate": "likes", "value": "pasta"}}
+{"id": "multilingual_324", "category": "multilingual", "language": "fr", "turns": ["J'aime salad."], "expected": {"predicate": "likes", "value": "salad"}}
+{"id": "multilingual_325", "category": "multilingual", "language": "fr", "turns": ["J'aime tacos."], "expected": {"predicate": "likes", "value": "tacos"}}
+{"id": "multilingual_326", "category": "multilingual", "language": "fa", "turns": ["من curry را دوست دارم"], "expected": {"predicate": "likes", "value": "curry"}}
+{"id": "multilingual_327", "category": "multilingual", "language": "fr", "turns": ["J'aime pasta."], "expected": {"predicate": "likes", "value": "pasta"}}
+{"id": "multilingual_328", "category": "multilingual", "language": "es", "turns": ["Me gusta salad."], "expected": {"predicate": "likes", "value": "salad"}}
+{"id": "multilingual_329", "category": "multilingual", "language": "fa", "turns": ["من ramen را دوست دارم"], "expected": {"predicate": "likes", "value": "ramen"}}
+{"id": "multilingual_330", "category": "multilingual", "language": "fa", "turns": ["من curry را دوست دارم"], "expected": {"predicate": "likes", "value": "curry"}}
+{"id": "multilingual_331", "category": "multilingual", "language": "es", "turns": ["Me gusta ramen."], "expected": {"predicate": "likes", "value": "ramen"}}
+{"id": "multilingual_332", "category": "multilingual", "language": "es", "turns": ["Me gusta salad."], "expected": {"predicate": "likes", "value": "salad"}}
+{"id": "multilingual_333", "category": "multilingual", "language": "es", "turns": ["Me gusta salad."], "expected": {"predicate": "likes", "value": "salad"}}
+{"id": "multilingual_334", "category": "multilingual", "language": "fr", "turns": ["J'aime salad."], "expected": {"predicate": "likes", "value": "salad"}}
+{"id": "multilingual_335", "category": "multilingual", "language": "es", "turns": ["Me gusta pasta."], "expected": {"predicate": "likes", "value": "pasta"}}
+{"id": "multilingual_336", "category": "multilingual", "language": "es", "turns": ["Me gusta curry."], "expected": {"predicate": "likes", "value": "curry"}}
+{"id": "multilingual_337", "category": "multilingual", "language": "es", "turns": ["Me gusta sushi."], "expected": {"predicate": "likes", "value": "sushi"}}
+{"id": "multilingual_338", "category": "multilingual", "language": "fr", "turns": ["J'aime salad."], "expected": {"predicate": "likes", "value": "salad"}}
+{"id": "multilingual_339", "category": "multilingual", "language": "es", "turns": ["Me gusta salad."], "expected": {"predicate": "likes", "value": "salad"}}
+{"id": "multilingual_340", "category": "multilingual", "language": "fr", "turns": ["J'aime curry."], "expected": {"predicate": "likes", "value": "curry"}}
+{"id": "multilingual_341", "category": "multilingual", "language": "fa", "turns": ["من pasta را دوست دارم"], "expected": {"predicate": "likes", "value": "pasta"}}
+{"id": "multilingual_342", "category": "multilingual", "language": "fr", "turns": ["J'aime curry."], "expected": {"predicate": "likes", "value": "curry"}}
+{"id": "multilingual_343", "category": "multilingual", "language": "fa", "turns": ["من salad را دوست دارم"], "expected": {"predicate": "likes", "value": "salad"}}
+{"id": "multilingual_344", "category": "multilingual", "language": "es", "turns": ["Me gusta sushi."], "expected": {"predicate": "likes", "value": "sushi"}}
+{"id": "multilingual_345", "category": "multilingual", "language": "fa", "turns": ["من salad را دوست دارم"], "expected": {"predicate": "likes", "value": "salad"}}
+{"id": "multilingual_346", "category": "multilingual", "language": "fa", "turns": ["من salad را دوست دارم"], "expected": {"predicate": "likes", "value": "salad"}}
+{"id": "multilingual_347", "category": "multilingual", "language": "fa", "turns": ["من sushi را دوست دارم"], "expected": {"predicate": "likes", "value": "sushi"}}
+{"id": "multilingual_348", "category": "multilingual", "language": "es", "turns": ["Me gusta ramen."], "expected": {"predicate": "likes", "value": "ramen"}}
+{"id": "multilingual_349", "category": "multilingual", "language": "fr", "turns": ["J'aime ramen."], "expected": {"predicate": "likes", "value": "ramen"}}
+{"id": "multilingual_350", "category": "multilingual", "language": "fa", "turns": ["من sushi را دوست دارم"], "expected": {"predicate": "likes", "value": "sushi"}}
+{"id": "multilingual_351", "category": "multilingual", "language": "es", "turns": ["Me gusta salad."], "expected": {"predicate": "likes", "value": "salad"}}
+{"id": "multilingual_352", "category": "multilingual", "language": "es", "turns": ["Me gusta pasta."], "expected": {"predicate": "likes", "value": "pasta"}}
+{"id": "multilingual_353", "category": "multilingual", "language": "fr", "turns": ["J'aime curry."], "expected": {"predicate": "likes", "value": "curry"}}
+{"id": "multilingual_354", "category": "multilingual", "language": "fa", "turns": ["من sushi را دوست دارم"], "expected": {"predicate": "likes", "value": "sushi"}}
+{"id": "multilingual_355", "category": "multilingual", "language": "fr", "turns": ["J'aime curry."], "expected": {"predicate": "likes", "value": "curry"}}
+{"id": "multilingual_356", "category": "multilingual", "language": "fa", "turns": ["من sushi را دوست دارم"], "expected": {"predicate": "likes", "value": "sushi"}}
+{"id": "multilingual_357", "category": "multilingual", "language": "es", "turns": ["Me gusta sushi."], "expected": {"predicate": "likes", "value": "sushi"}}
+{"id": "multilingual_358", "category": "multilingual", "language": "es", "turns": ["Me gusta ramen."], "expected": {"predicate": "likes", "value": "ramen"}}
+{"id": "multilingual_359", "category": "multilingual", "language": "fa", "turns": ["من pasta را دوست دارم"], "expected": {"predicate": "likes", "value": "pasta"}}

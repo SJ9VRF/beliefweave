@@ -1,0 +1,18 @@
+{
+  "db_bytes": 319488,
+  "environment_note": "Single-process local prototype profile; not a production benchmark.",
+  "ingest_ms": {
+    "max": 267.10215199989307,
+    "median": 27.66381849994559,
+    "p95": 48.47352199999477
+  },
+  "interactions": 400,
+  "recall_ms": {
+    "max": 93.21897499989973,
+    "median": 46.41845999998395,
+    "p95": 80.18812000000253
+  },
+  "recalls": 100,
+  "rss_delta_bytes": 96788480,
+  "tracemalloc_peak_bytes": 52080333
+}

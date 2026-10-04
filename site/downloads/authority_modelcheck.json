@@ -1,0 +1,352 @@
+{
+  "suite": "Exhaustive Authority State-Space Verification",
+  "state_space_dimensions": {
+    "status": 2,
+    "temporal": 5,
+    "source": 3,
+    "confidence": 5,
+    "verified": 2,
+    "provenance": 2,
+    "privacy": 2,
+    "context_mode": 4,
+    "conflict": 2
+  },
+  "n_states_per_gate": 9600,
+  "systems": [
+    {
+      "gate": "DecisionAwareBeliefGateV1",
+      "n_states": 9600,
+      "action_counts": {
+        "abstain": 7104,
+        "ask": 1920,
+        "use": 576
+      },
+      "reason_counts": {
+        "insufficient_authority": 384,
+        "unresolved_conflict": 1440,
+        "context_mismatch": 960,
+        "uncertain_belief": 480,
+        "sufficient_authority": 576,
+        "inactive_or_stale": 5760
+      },
+      "properties": {
+        "safety_invalid_never_use": false,
+        "unresolved_conflict_requires_ask": true,
+        "scoped_unknown_context_never_use": false,
+        "confidence_monotonicity": true,
+        "verification_monotonicity": true,
+        "explicit_not_weaker_than_inferred": true
+      },
+      "n_property_violations": 560,
+      "violations": {
+        "safety_invalid_never_use": {
+          "count": 554,
+          "examples": [
+            {
+              "case": {
+                "status": "active",
+                "temporal": "valid",
+                "source": "explicit",
+                "confidence": 0.77,
+                "verified": false,
+                "provenance": false,
+                "privacy": "normal",
+                "context_mode": "unscoped",
+                "conflict": false
+              },
+              "action": "use",
+              "reason": "sufficient_authority"
+            },
+            {
+              "case": {
+                "status": "active",
+                "temporal": "valid",
+                "source": "explicit",
+                "confidence": 0.77,
+                "verified": false,
+                "provenance": false,
+                "privacy": "normal",
+                "context_mode": "same",
+                "conflict": false
+              },
+              "action": "use",
+              "reason": "sufficient_authority"
+            },
+            {
+              "case": {
+                "status": "active",
+                "temporal": "valid",
+                "source": "explicit",
+                "confidence": 0.77,
+                "verified": false,
+                "provenance": false,
+                "privacy": "normal",
+                "context_mode": "unknown",
+                "conflict": false
+              },
+              "action": "use",
+              "reason": "sufficient_authority"
+            },
+            {
+              "case": {
+                "status": "active",
+                "temporal": "valid",
+                "source": "explicit",
+                "confidence": 0.77,
+                "verified": false,
+                "provenance": false,
+                "privacy": "sensitive",
+                "context_mode": "unscoped",
+                "conflict": false
+              },
+              "action": "use",
+              "reason": "sufficient_authority"
+            },
+            {
+              "case": {
+                "status": "active",
+                "temporal": "valid",
+                "source": "explicit",
+                "confidence": 0.77,
+                "verified": false,
+                "provenance": false,
+                "privacy": "sensitive",
+                "context_mode": "same",
+                "conflict": false
+              },
+              "action": "use",
+              "reason": "sufficient_authority"
+            }
+          ]
+        },
+        "scoped_unknown_context_never_use": {
+          "count": 6,
+          "examples": [
+            {
+              "case": {
+                "status": "active",
+                "temporal": "valid",
+                "source": "explicit",
+                "confidence": 0.77,
+                "verified": false,
+                "provenance": true,
+                "privacy": "normal",
+                "context_mode": "unknown",
+                "conflict": false
+              },
+              "action": "use",
+              "reason": "sufficient_authority"
+            },
+            {
+              "case": {
+                "status": "active",
+                "temporal": "valid",
+                "source": "explicit",
+                "confidence": 0.77,
+                "verified": true,
+                "provenance": true,
+                "privacy": "normal",
+                "context_mode": "unknown",
+                "conflict": false
+              },
+              "action": "use",
+              "reason": "sufficient_authority"
+            },
+            {
+              "case": {
+                "status": "active",
+                "temporal": "valid",
+                "source": "explicit",
+                "confidence": 0.78,
+                "verified": false,
+                "provenance": true,
+                "privacy": "normal",
+                "context_mode": "unknown",
+                "conflict": false
+              },
+              "action": "use",
+              "reason": "sufficient_authority"
+            },
+            {
+              "case": {
+                "status": "active",
+                "temporal": "valid",
+                "source": "explicit",
+                "confidence": 0.78,
+                "verified": true,
+                "provenance": true,
+                "privacy": "normal",
+                "context_mode": "unknown",
+                "conflict": false
+              },
+              "action": "use",
+              "reason": "sufficient_authority"
+            },
+            {
+              "case": {
+                "status": "active",
+                "temporal": "valid",
+                "source": "explicit",
+                "confidence": 0.95,
+                "verified": false,
+                "provenance": true,
+                "privacy": "normal",
+                "context_mode": "unknown",
+                "conflict": false
+              },
+              "action": "use",
+              "reason": "sufficient_authority"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "gate": "DecisionAwareBeliefGateV2",
+      "n_states": 9600,
+      "action_counts": {
+        "abstain": 7504,
+        "ask": 1928,
+        "use": 168
+      },
+      "reason_counts": {
+        "insufficient_authority": 144,
+        "unresolved_conflict": 480,
+        "context_mismatch": 480,
+        "context_required": 1280,
+        "uncertain_belief": 168,
+        "sufficient_authority": 168,
+        "synthetic_not_user_authority": 2560,
+        "inactive_or_stale": 2400,
+        "not_yet_valid": 1920
+      },
+      "properties": {
+        "safety_invalid_never_use": false,
+        "unresolved_conflict_requires_ask": true,
+        "scoped_unknown_context_never_use": true,
+        "confidence_monotonicity": true,
+        "verification_monotonicity": true,
+        "explicit_not_weaker_than_inferred": true
+      },
+      "n_property_violations": 146,
+      "violations": {
+        "safety_invalid_never_use": {
+          "count": 146,
+          "examples": [
+            {
+              "case": {
+                "status": "active",
+                "temporal": "valid",
+                "source": "explicit",
+                "confidence": 0.77,
+                "verified": false,
+                "provenance": false,
+                "privacy": "normal",
+                "context_mode": "unscoped",
+                "conflict": false
+              },
+              "action": "use",
+              "reason": "sufficient_authority"
+            },
+            {
+              "case": {
+                "status": "active",
+                "temporal": "valid",
+                "source": "explicit",
+                "confidence": 0.77,
+                "verified": false,
+                "provenance": false,
+                "privacy": "normal",
+                "context_mode": "same",
+                "conflict": false
+              },
+              "action": "use",
+              "reason": "sufficient_authority"
+            },
+            {
+              "case": {
+                "status": "active",
+                "temporal": "valid",
+                "source": "explicit",
+                "confidence": 0.77,
+                "verified": false,
+                "provenance": false,
+                "privacy": "sensitive",
+                "context_mode": "unscoped",
+                "conflict": false
+              },
+              "action": "use",
+              "reason": "sufficient_authority"
+            },
+            {
+              "case": {
+                "status": "active",
+                "temporal": "valid",
+                "source": "explicit",
+                "confidence": 0.77,
+                "verified": false,
+                "provenance": false,
+                "privacy": "sensitive",
+                "context_mode": "same",
+                "conflict": false
+              },
+              "action": "use",
+              "reason": "sufficient_authority"
+            },
+            {
+              "case": {
+                "status": "active",
+                "temporal": "valid",
+                "source": "explicit",
+                "confidence": 0.77,
+                "verified": false,
+                "provenance": true,
+                "privacy": "sensitive",
+                "context_mode": "unscoped",
+                "conflict": false
+              },
+              "action": "use",
+              "reason": "sufficient_authority"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "gate": "DecisionAwareBeliefGateV3",
+      "n_states": 9600,
+      "action_counts": {
+        "ask": 2460,
+        "abstain": 7118,
+        "use": 22
+      },
+      "reason_counts": {
+        "missing_provenance": 320,
+        "insufficient_authority": 18,
+        "unresolved_conflict": 60,
+        "context_mismatch": 60,
+        "context_required": 60,
+        "sensitive_unverified": 80,
+        "uncertain_belief": 20,
+        "sufficient_authority": 22,
+        "synthetic_not_user_authority": 320,
+        "inactive_or_stale": 5760,
+        "not_yet_valid": 960,
+        "malformed_temporal_metadata": 1920
+      },
+      "properties": {
+        "safety_invalid_never_use": true,
+        "unresolved_conflict_requires_ask": true,
+        "scoped_unknown_context_never_use": true,
+        "confidence_monotonicity": true,
+        "verification_monotonicity": true,
+        "explicit_not_weaker_than_inferred": true
+      },
+      "n_property_violations": 0,
+      "violations": {}
+    }
+  ],
+  "production_gate": "DecisionAwareBeliefGateV3",
+  "production_all_properties_hold": true,
+  "boundary": "Finite exhaustive verification over the declared discrete policy state space; it is not a proof over arbitrary code, arbitrary timestamps, or unmodeled metadata fields."
+}

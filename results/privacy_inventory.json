@@ -1,0 +1,8 @@
+{
+  "export_includes_control_metadata": true,
+  "full_user_erasure_leaves_no_user_rows": true,
+  "guarded_erasure_retains_only_scrubbed_replay_markers": true,
+  "pass": true,
+  "scope": "Local reference-runtime privacy controls. This is not a legal compliance certification or proof of deletion from backups or external systems.",
+  "telemetry_identifiers_are_keyed_and_content_free": true
+}

@@ -1,0 +1,45 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "sc": "https://schema.org/",
+    "cr": "http://mlcommons.org/croissant/",
+    "rai": "http://mlcommons.org/croissant/RAI/",
+    "prov": "http://www.w3.org/ns/prov#"
+  },
+  "@type": "sc:Dataset",
+  "name": "BeliefShiftBench-v2",
+  "url": "file:benchmark/beliefshift_v2_test_manifest.json",
+  "description": "Controlled synthetic benchmark for deciding whether retrieved personal memories should be used, clarified, or abstained from before influencing behavior.",
+  "creator": {
+    "@type": "sc:Person",
+    "name": "Aura Yavary"
+  },
+  "license": "https://opensource.org/licenses/MIT",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "test_manifest",
+      "name": "Frozen test manifest",
+      "contentUrl": "benchmark/beliefshift_v2_test_manifest.json",
+      "encodingFormat": "application/json"
+    }
+  ],
+  "variableMeasured": [
+    "exact_action_accuracy",
+    "binary_use_accuracy",
+    "false_personalization_rate",
+    "counterfactual_personalization_regret",
+    "memory_intervention_fidelity"
+  ],
+  "rai:dataLimitations": "Author-constructed synthetic metadata cases do not establish real-user utility, natural-language robustness, demographic validity, or generalization to external memory systems. The v2 test split shares scenario families with development data; a separate unseen-composition challenge is reported to expose this limitation.",
+  "rai:dataBiases": "The benchmark emphasizes memory-authority failures selected by the author, uses English labels and simplified metadata fields, and does not model demographic or cultural variation. Family balance is artificial rather than population-representative.",
+  "rai:personalSensitiveInformation": "No real personal or sensitive information is included. All user identifiers, preferences, contexts, and events are synthetic.",
+  "rai:dataUseCases": "Intended for controlled evaluation of post-retrieval behavioral-authority policies (USE/ASK/ABSTAIN), ablations, and regression testing. It is not validated for ranking general conversational assistants, measuring human trust, or estimating deployment safety.",
+  "rai:dataSocialImpact": "Potential benefit: reducing stale, intrusive, or unjustified personalization. Potential harm: overinterpreting synthetic benchmark performance as deployment safety could encourage inappropriate use of personal memory. Results should be paired with external and human evaluation before product claims.",
+  "rai:hasSyntheticData": true,
+  "prov:wasGeneratedBy": {
+    "@type": "prov:Activity",
+    "sc:description": "Deterministic Python benchmark generator with explicit scenario-family rules, frozen test identifiers, and reproducible seeds. No human annotators or model-generated labels are used in the primary benchmark."
+  }
+}

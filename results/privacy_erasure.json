@@ -1,0 +1,13 @@
+{
+  "suite": "Privacy Erasure / Provenance Cascade Evaluation",
+  "users": 50,
+  "deleted_source_events_absent": true,
+  "unrelated_source_events_retained": true,
+  "target_memories_absent": true,
+  "multi_source_siblings_repaired": 50,
+  "expected_multi_source_siblings": 50,
+  "exports_with_deleted_event_leakage": 0,
+  "integrity_ok": true,
+  "integrity_error_count": 0,
+  "boundary": "Local deterministic database erasure test; it does not establish legal compliance or deletion guarantees for backups, logs, or external services."
+}

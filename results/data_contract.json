@@ -1,0 +1,102 @@
+{
+  "enums": {
+    "conflict_type": [
+      "none",
+      "direct_contradiction",
+      "temporal_update",
+      "context_dependent",
+      "goal_change",
+      "preference_drift",
+      "source_disagreement",
+      "apparent_conflict"
+    ],
+    "memory_status": [
+      "active",
+      "superseded",
+      "expired",
+      "deleted",
+      "archived"
+    ],
+    "memory_type": [
+      "fact",
+      "preference",
+      "goal",
+      "constraint",
+      "routine",
+      "relationship",
+      "commitment",
+      "past_event",
+      "style",
+      "temporary_state",
+      "inferred_hypothesis"
+    ],
+    "source_type": [
+      "explicit",
+      "implicit",
+      "inferred",
+      "observed",
+      "synthetic"
+    ],
+    "write_decision": [
+      "write",
+      "store_temporarily",
+      "ask_user",
+      "ignore"
+    ]
+  },
+  "schema_version": 4,
+  "supported_schema_version": 4,
+  "tables": {
+    "events": [
+      "id",
+      "user_id",
+      "timestamp",
+      "conversation_id",
+      "modality",
+      "context",
+      "raw_text",
+      "metadata_json"
+    ],
+    "ingest_receipts": [
+      "user_id",
+      "idempotency_key",
+      "request_hash",
+      "event_id",
+      "tombstoned"
+    ],
+    "memories": [
+      "id",
+      "user_id",
+      "subject",
+      "predicate",
+      "value",
+      "memory_type",
+      "source_type",
+      "confidence",
+      "source_event_ids_json",
+      "created_at",
+      "updated_at",
+      "valid_from",
+      "valid_until",
+      "stability",
+      "importance",
+      "context_scope",
+      "status",
+      "supersedes",
+      "conflicts_with_json",
+      "retrieval_count",
+      "last_used_at",
+      "user_verified",
+      "privacy_level",
+      "correction_count"
+    ],
+    "pwm_meta": [
+      "key",
+      "value"
+    ],
+    "pwm_schema_migrations": [
+      "version",
+      "name"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "boundary": "Lightweight AST/regex guardrail; not a formal security audit.",
+  "error_count": 0,
+  "finding_count": 0,
+  "findings": [],
+  "ok": true,
+  "scope": [
+    "beliefweave",
+    "pwm",
+    "demo",
+    "scripts"
+  ]
+}

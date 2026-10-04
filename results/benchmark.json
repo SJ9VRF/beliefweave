@@ -1,0 +1,19 @@
+{
+  "benchmark": "MemWorldBench controlled longitudinal slice",
+  "n_users": 20,
+  "n_turns_per_user": 100,
+  "interactions": 2000,
+  "final_current_food_accuracy": {
+    "personal_world_model": 1.0,
+    "naive_append_only": 1.0
+  },
+  "preference_reversal_old_belief_retirement_accuracy": {
+    "personal_world_model": 1.0,
+    "naive_append_only": 0.0
+  },
+  "mean_active_stale_food_memories": 0,
+  "mean_ingest_latency_ms": 2.500444454501462,
+  "p95_ingest_latency_ms": 3.5692060000656056,
+  "mean_active_memory_count": 9,
+  "note": "Synthetic controlled benchmark; engineering validation only, not evidence of performance on real users."
+}

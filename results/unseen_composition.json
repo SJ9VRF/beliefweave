@@ -1,0 +1,49 @@
+{
+  "cases_per_seed": 288,
+  "challenge_informed_patch_mean_accuracy": 1.0,
+  "challenge_informed_patch_note": "The V2 gate was written after observing these failures; its score is a regression result, not independent generalization evidence.",
+  "family_accuracy_mean": {
+    "conflict_plus_context_match": 1.0,
+    "expired_and_verified": 1.0,
+    "explicit_low_confidence": 1.0,
+    "future_not_yet_valid": 0.0,
+    "implicit_medium_confidence": 1.0,
+    "observed_boundary": 1.0,
+    "scoped_memory_context_unknown": 0.0,
+    "superseded_high_confidence": 1.0,
+    "synthetic_high_confidence": 0.0,
+    "valid_explicit_unscoped": 1.0,
+    "valid_observed_unscoped": 1.0,
+    "verified_inferred": 1.0
+  },
+  "interpretation": "This suite deliberately introduces structural combinations absent from BeliefShiftBench-v2. Failures are evidence about specification coverage, not grounds to retune the frozen primary test.",
+  "mean_exact_action_accuracy": 0.75,
+  "role": "post-hoc adversarial challenge; not used for parameter tuning and not included in the primary held-out claim",
+  "seed_accuracies": [
+    0.75,
+    0.75,
+    0.75,
+    0.75,
+    0.75,
+    0.75,
+    0.75,
+    0.75,
+    0.75,
+    0.75
+  ],
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "std_exact_action_accuracy_across_seeds": 0.0,
+  "suite": "BeliefShift Unseen-Composition Challenge",
+  "total_decisions": 2880
+}

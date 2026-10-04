@@ -1,0 +1,2899 @@
+{
+  "lexical": {
+    "cases": [
+      {
+        "case": "food_0",
+        "top": [
+          "jazz",
+          "New York",
+          "sushi"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "career_0",
+        "top": [
+          "publish a paper",
+          "jazz",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_0",
+        "top": [
+          "run in the morning",
+          "jazz",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_0",
+        "top": [
+          "formal tone",
+          "jazz",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_0",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_0",
+        "top": [
+          "learn French",
+          "read at night",
+          "raw fish"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "food_1",
+        "top": [
+          "learn French",
+          "jazz",
+          "read at night"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_1",
+        "top": [
+          "read at night",
+          "finish my thesis",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_1",
+        "top": [
+          "read at night",
+          "work out before breakfast",
+          "New York"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_1",
+        "top": [
+          "formal tone",
+          "jazz",
+          "casual tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_1",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_1",
+        "top": [
+          "raw fish",
+          "New York",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_2",
+        "top": [
+          "Italian food",
+          "jazz",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_2",
+        "top": [
+          "save for a house",
+          "New York",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_2",
+        "top": [
+          "jazz",
+          "learn French",
+          "walk after lunch"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_2",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_2",
+        "top": [
+          "casual tone",
+          "read at night",
+          "formal tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_2",
+        "top": [
+          "raw fish",
+          "New York",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_3",
+        "top": [
+          "tea",
+          "read at night",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_3",
+        "top": [
+          "learn French",
+          "jazz",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_3",
+        "top": [
+          "read at night",
+          "run in the morning",
+          "New York"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_3",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_3",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_3",
+        "top": [
+          "New York",
+          "raw fish",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "food_4",
+        "top": [
+          "Japanese cuisine",
+          "read at night",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_4",
+        "top": [
+          "learn French",
+          "publish a paper",
+          "jazz"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_4",
+        "top": [
+          "jazz",
+          "New York",
+          "read at night"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_4",
+        "top": [
+          "formal tone",
+          "learn French",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_4",
+        "top": [
+          "casual tone",
+          "read at night",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_4",
+        "top": [
+          "New York",
+          "read at night",
+          "jazz"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_5",
+        "top": [
+          "jazz",
+          "sushi",
+          "New York"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "career_5",
+        "top": [
+          "learn French",
+          "finish my thesis",
+          "read at night"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_5",
+        "top": [
+          "read at night",
+          "walk after lunch",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_5",
+        "top": [
+          "formal tone",
+          "learn French",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_5",
+        "top": [
+          "casual tone",
+          "read at night",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_5",
+        "top": [
+          "New York",
+          "jazz",
+          "raw fish"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "food_6",
+        "top": [
+          "New York",
+          "read at night",
+          "quiet cafes"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "career_6",
+        "top": [
+          "learn French",
+          "save for a house",
+          "New York"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_6",
+        "top": [
+          "run in the morning",
+          "New York",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_6",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_6",
+        "top": [
+          "casual tone",
+          "New York",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_6",
+        "top": [
+          "learn French",
+          "New York",
+          "raw fish"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "food_7",
+        "top": [
+          "Italian food",
+          "read at night",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_7",
+        "top": [
+          "learn French",
+          "jazz",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_7",
+        "top": [
+          "read at night",
+          "work out before breakfast",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_7",
+        "top": [
+          "formal tone",
+          "jazz",
+          "casual tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_7",
+        "top": [
+          "casual tone",
+          "jazz",
+          "formal tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_7",
+        "top": [
+          "raw fish",
+          "jazz",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_8",
+        "top": [
+          "read at night",
+          "learn French",
+          "jazz"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_8",
+        "top": [
+          "New York",
+          "read at night",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_8",
+        "top": [
+          "walk after lunch",
+          "read at night",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_8",
+        "top": [
+          "formal tone",
+          "learn French",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_8",
+        "top": [
+          "casual tone",
+          "New York",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_8",
+        "top": [
+          "learn French",
+          "New York",
+          "jazz"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_9",
+        "top": [
+          "read at night",
+          "learn French",
+          "jazz"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_9",
+        "top": [
+          "New York",
+          "finish my thesis",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_9",
+        "top": [
+          "run in the morning",
+          "New York",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_9",
+        "top": [
+          "formal tone",
+          "read at night",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_9",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_9",
+        "top": [
+          "New York",
+          "raw fish",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "food_10",
+        "top": [
+          "read at night",
+          "sushi",
+          "New York"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "career_10",
+        "top": [
+          "New York",
+          "learn French",
+          "save for a house"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_10",
+        "top": [
+          "New York",
+          "read at night",
+          "work out before breakfast"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_10",
+        "top": [
+          "formal tone",
+          "learn French",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_10",
+        "top": [
+          "casual tone",
+          "read at night",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_10",
+        "top": [
+          "New York",
+          "read at night",
+          "raw fish"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "food_11",
+        "top": [
+          "read at night",
+          "quiet cafes",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "career_11",
+        "top": [
+          "jazz",
+          "New York",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_11",
+        "top": [
+          "walk after lunch",
+          "jazz",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_11",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_11",
+        "top": [
+          "casual tone",
+          "New York",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_11",
+        "top": [
+          "read at night",
+          "raw fish",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "food_12",
+        "top": [
+          "read at night",
+          "jazz",
+          "Italian food"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "career_12",
+        "top": [
+          "New York",
+          "read at night",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_12",
+        "top": [
+          "read at night",
+          "New York",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_12",
+        "top": [
+          "formal tone",
+          "learn French",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_12",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_12",
+        "top": [
+          "jazz",
+          "raw fish",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "food_13",
+        "top": [
+          "tea",
+          "learn French",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_13",
+        "top": [
+          "New York",
+          "read at night",
+          "jazz"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_13",
+        "top": [
+          "jazz",
+          "learn French",
+          "work out before breakfast"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_13",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_13",
+        "top": [
+          "casual tone",
+          "jazz",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_13",
+        "top": [
+          "read at night",
+          "raw fish",
+          "New York"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "food_14",
+        "top": [
+          "jazz",
+          "read at night",
+          "Japanese cuisine"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "career_14",
+        "top": [
+          "save for a house",
+          "New York",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_14",
+        "top": [
+          "walk after lunch",
+          "read at night",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_14",
+        "top": [
+          "formal tone",
+          "read at night",
+          "casual tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_14",
+        "top": [
+          "casual tone",
+          "jazz",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_14",
+        "top": [
+          "raw fish",
+          "read at night",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_15",
+        "top": [
+          "sushi",
+          "New York",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_15",
+        "top": [
+          "jazz",
+          "learn French",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_15",
+        "top": [
+          "jazz",
+          "read at night",
+          "run in the morning"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_15",
+        "top": [
+          "formal tone",
+          "read at night",
+          "casual tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_15",
+        "top": [
+          "casual tone",
+          "jazz",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_15",
+        "top": [
+          "jazz",
+          "New York",
+          "read at night"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_16",
+        "top": [
+          "jazz",
+          "New York",
+          "read at night"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_16",
+        "top": [
+          "New York",
+          "learn French",
+          "publish a paper"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_16",
+        "top": [
+          "New York",
+          "learn French",
+          "read at night"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_16",
+        "top": [
+          "formal tone",
+          "New York",
+          "casual tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_16",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_16",
+        "top": [
+          "raw fish",
+          "learn French",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_17",
+        "top": [
+          "Italian food",
+          "jazz",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_17",
+        "top": [
+          "jazz",
+          "New York",
+          "read at night"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_17",
+        "top": [
+          "read at night",
+          "walk after lunch",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_17",
+        "top": [
+          "formal tone",
+          "read at night",
+          "casual tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_17",
+        "top": [
+          "casual tone",
+          "learn French",
+          "formal tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_17",
+        "top": [
+          "raw fish",
+          "learn French",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_18",
+        "top": [
+          "read at night",
+          "New York",
+          "jazz"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_18",
+        "top": [
+          "save for a house",
+          "read at night",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_18",
+        "top": [
+          "read at night",
+          "New York",
+          "run in the morning"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_18",
+        "top": [
+          "formal tone",
+          "jazz",
+          "casual tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_18",
+        "top": [
+          "casual tone",
+          "learn French",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_18",
+        "top": [
+          "New York",
+          "jazz",
+          "read at night"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_19",
+        "top": [
+          "learn French",
+          "read at night",
+          "Japanese cuisine"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "career_19",
+        "top": [
+          "learn French",
+          "learn French",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_19",
+        "top": [
+          "New York",
+          "read at night",
+          "work out before breakfast"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_19",
+        "top": [
+          "formal tone",
+          "read at night",
+          "casual tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_19",
+        "top": [
+          "casual tone",
+          "learn French",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_19",
+        "top": [
+          "read at night",
+          "raw fish",
+          "jazz"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      }
+    ],
+    "hit_at_1": 0.55,
+    "hit_at_3": 0.8666666666666667,
+    "mrr": 0.6833333333333333,
+    "stale_leaks": 0
+  },
+  "semantic_local": {
+    "cases": [
+      {
+        "case": "food_0",
+        "top": [
+          "jazz",
+          "sushi",
+          "read at night"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "career_0",
+        "top": [
+          "read at night",
+          "jazz",
+          "publish a paper"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_0",
+        "top": [
+          "run in the morning",
+          "read at night",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_0",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_0",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_0",
+        "top": [
+          "jazz",
+          "raw fish",
+          "read at night"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "food_1",
+        "top": [
+          "quiet cafes",
+          "jazz",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_1",
+        "top": [
+          "read at night",
+          "New York",
+          "jazz"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_1",
+        "top": [
+          "read at night",
+          "work out before breakfast",
+          "New York"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_1",
+        "top": [
+          "formal tone",
+          "jazz",
+          "casual tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_1",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_1",
+        "top": [
+          "jazz",
+          "raw fish",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "food_2",
+        "top": [
+          "Italian food",
+          "learn French",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_2",
+        "top": [
+          "read at night",
+          "New York",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_2",
+        "top": [
+          "read at night",
+          "walk after lunch",
+          "New York"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_2",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_2",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_2",
+        "top": [
+          "raw fish",
+          "learn French",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_3",
+        "top": [
+          "tea",
+          "jazz",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_3",
+        "top": [
+          "learn French",
+          "New York",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_3",
+        "top": [
+          "read at night",
+          "run in the morning",
+          "New York"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_3",
+        "top": [
+          "formal tone",
+          "jazz",
+          "casual tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_3",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_3",
+        "top": [
+          "raw fish",
+          "read at night",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_4",
+        "top": [
+          "Japanese cuisine",
+          "read at night",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_4",
+        "top": [
+          "publish a paper",
+          "New York",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_4",
+        "top": [
+          "read at night",
+          "work out before breakfast",
+          "New York"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_4",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_4",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_4",
+        "top": [
+          "raw fish",
+          "jazz",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_5",
+        "top": [
+          "jazz",
+          "sushi",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "career_5",
+        "top": [
+          "learn French",
+          "finish my thesis",
+          "New York"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_5",
+        "top": [
+          "read at night",
+          "walk after lunch",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_5",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_5",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_5",
+        "top": [
+          "raw fish",
+          "jazz",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_6",
+        "top": [
+          "quiet cafes",
+          "jazz",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_6",
+        "top": [
+          "save for a house",
+          "learn French",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_6",
+        "top": [
+          "run in the morning",
+          "learn French",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_6",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_6",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_6",
+        "top": [
+          "raw fish",
+          "jazz",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_7",
+        "top": [
+          "Italian food",
+          "jazz",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_7",
+        "top": [
+          "learn French",
+          "learn French",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_7",
+        "top": [
+          "read at night",
+          "work out before breakfast",
+          "jazz"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_7",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_7",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_7",
+        "top": [
+          "jazz",
+          "raw fish",
+          "read at night"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "food_8",
+        "top": [
+          "tea",
+          "jazz",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_8",
+        "top": [
+          "read at night",
+          "New York",
+          "jazz"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_8",
+        "top": [
+          "walk after lunch",
+          "jazz",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_8",
+        "top": [
+          "formal tone",
+          "jazz",
+          "casual tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_8",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_8",
+        "top": [
+          "raw fish",
+          "learn French",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_9",
+        "top": [
+          "Japanese cuisine",
+          "read at night",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_9",
+        "top": [
+          "New York",
+          "jazz",
+          "finish my thesis"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_9",
+        "top": [
+          "read at night",
+          "run in the morning",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_9",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_9",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_9",
+        "top": [
+          "raw fish",
+          "jazz",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_10",
+        "top": [
+          "jazz",
+          "sushi",
+          "read at night"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "career_10",
+        "top": [
+          "New York",
+          "jazz",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_10",
+        "top": [
+          "work out before breakfast",
+          "read at night",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_10",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_10",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_10",
+        "top": [
+          "jazz",
+          "raw fish",
+          "read at night"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "food_11",
+        "top": [
+          "quiet cafes",
+          "jazz",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_11",
+        "top": [
+          "learn French",
+          "learn French",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_11",
+        "top": [
+          "read at night",
+          "walk after lunch",
+          "New York"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_11",
+        "top": [
+          "formal tone",
+          "jazz",
+          "casual tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_11",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_11",
+        "top": [
+          "raw fish",
+          "jazz",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_12",
+        "top": [
+          "Italian food",
+          "jazz",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_12",
+        "top": [
+          "New York",
+          "jazz",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_12",
+        "top": [
+          "run in the morning",
+          "read at night",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_12",
+        "top": [
+          "formal tone",
+          "jazz",
+          "casual tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_12",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_12",
+        "top": [
+          "raw fish",
+          "jazz",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_13",
+        "top": [
+          "tea",
+          "jazz",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_13",
+        "top": [
+          "New York",
+          "jazz",
+          "finish my thesis"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_13",
+        "top": [
+          "work out before breakfast",
+          "read at night",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_13",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_13",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_13",
+        "top": [
+          "raw fish",
+          "jazz",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_14",
+        "top": [
+          "jazz",
+          "Japanese cuisine",
+          "New York"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "career_14",
+        "top": [
+          "save for a house",
+          "learn French",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_14",
+        "top": [
+          "walk after lunch",
+          "learn French",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_14",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_14",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_14",
+        "top": [
+          "raw fish",
+          "jazz",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_15",
+        "top": [
+          "jazz",
+          "sushi",
+          "read at night"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "career_15",
+        "top": [
+          "read at night",
+          "jazz",
+          "learn French"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_15",
+        "top": [
+          "run in the morning",
+          "read at night",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_15",
+        "top": [
+          "formal tone",
+          "jazz",
+          "casual tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_15",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_15",
+        "top": [
+          "raw fish",
+          "read at night",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_16",
+        "top": [
+          "quiet cafes",
+          "read at night",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_16",
+        "top": [
+          "read at night",
+          "jazz",
+          "publish a paper"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_16",
+        "top": [
+          "read at night",
+          "work out before breakfast",
+          "New York"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_16",
+        "top": [
+          "formal tone",
+          "jazz",
+          "casual tone"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_16",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_16",
+        "top": [
+          "raw fish",
+          "jazz",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_17",
+        "top": [
+          "Italian food",
+          "jazz",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_17",
+        "top": [
+          "read at night",
+          "New York",
+          "jazz"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "reciprocal_rank": 0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_17",
+        "top": [
+          "walk after lunch",
+          "New York",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_17",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_17",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_17",
+        "top": [
+          "raw fish",
+          "read at night",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_18",
+        "top": [
+          "tea",
+          "read at night",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "career_18",
+        "top": [
+          "save for a house",
+          "New York",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_18",
+        "top": [
+          "run in the morning",
+          "read at night",
+          "learn French"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_18",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_18",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_18",
+        "top": [
+          "raw fish",
+          "read at night",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "food_19",
+        "top": [
+          "jazz",
+          "Japanese cuisine",
+          "read at night"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "career_19",
+        "top": [
+          "learn French",
+          "learn French",
+          "New York"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "fitness_19",
+        "top": [
+          "read at night",
+          "work out before breakfast",
+          "New York"
+        ],
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "reciprocal_rank": 0.5,
+        "stale_leak": false
+      },
+      {
+        "case": "workctx_19",
+        "top": [
+          "formal tone",
+          "casual tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "friendctx_19",
+        "top": [
+          "casual tone",
+          "formal tone",
+          "jazz"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      },
+      {
+        "case": "restrict_19",
+        "top": [
+          "raw fish",
+          "jazz",
+          "read at night"
+        ],
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "reciprocal_rank": 1.0,
+        "stale_leak": false
+      }
+    ],
+    "hit_at_1": 0.7333333333333333,
+    "hit_at_3": 0.95,
+    "mrr": 0.8347222222222223,
+    "stale_leaks": 0
+  },
+  "n_cases": 120
+}

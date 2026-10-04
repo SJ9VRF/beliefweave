@@ -1,0 +1,23 @@
+{
+  "longmemeval_v1": {
+    "adapter": "implemented",
+    "executed": false,
+    "reason": "official third-party data/model evaluator path not available in build"
+  },
+  "longmemeval_v2": {
+    "adapter": "registry contract",
+    "executed": false,
+    "reason": "official third-party data/model evaluator path not available in build"
+  },
+  "personamem_v1": {
+    "adapter": "implemented",
+    "executed": false,
+    "reason": "external model inference not available in build"
+  },
+  "personamem_v3": {
+    "adapter": "priority target",
+    "executed": false,
+    "reason": "official benchmark/model path not available in build"
+  },
+  "claim_policy": "No external score is reported until official data and required evaluator/model execution are run."
+}

@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "checks": {
+    "GET /health": true,
+    "GET /": true,
+    "GET /project": true,
+    "GET /dashboard": true,
+    "ingest": true,
+    "memory_created": true,
+    "recall": true,
+    "export": true,
+    "hard_forget_http": true,
+    "hard_forget_memory_purge": true,
+    "hard_forget_event_purge": true,
+    "demo_db_outside_repo": true
+  },
+  "demo_db": "/tmp/pwm-demo-8034.db"
+}

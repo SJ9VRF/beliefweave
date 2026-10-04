@@ -1,0 +1,47 @@
+{
+  "suite": "Benchmark Mutation Adequacy",
+  "benchmark": "BeliefShiftBench-v2 frozen test",
+  "base_accuracy": 0.96875,
+  "n_mutants": 6,
+  "mutants_killed": 6,
+  "mutation_score": 1.0,
+  "mutants": {
+    "no_status": {
+      "exact_action_accuracy": 0.84375,
+      "delta_vs_base": -0.125,
+      "changed_decisions": 40,
+      "killed": true
+    },
+    "no_time": {
+      "exact_action_accuracy": 0.84375,
+      "delta_vs_base": -0.125,
+      "changed_decisions": 40,
+      "killed": true
+    },
+    "no_context": {
+      "exact_action_accuracy": 0.84375,
+      "delta_vs_base": -0.125,
+      "changed_decisions": 40,
+      "killed": true
+    },
+    "no_conflict": {
+      "exact_action_accuracy": 0.84375,
+      "delta_vs_base": -0.125,
+      "changed_decisions": 40,
+      "killed": true
+    },
+    "no_provenance": {
+      "exact_action_accuracy": 0.90625,
+      "delta_vs_base": -0.0625,
+      "changed_decisions": 30,
+      "killed": true
+    },
+    "always_use_active": {
+      "exact_action_accuracy": 0.375,
+      "delta_vs_base": -0.59375,
+      "changed_decisions": 195,
+      "killed": true
+    }
+  },
+  "interpretation": "Fault injection checks whether the benchmark detects removal of semantically important decision mechanisms. Mutation score is benchmark adequacy evidence, not model generalization evidence."
+}

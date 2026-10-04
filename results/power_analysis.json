@@ -1,0 +1,23 @@
+{
+  "human_ab_planning": [
+    {
+      "true_preference_rate": 0.6,
+      "approx_n_for_80pct_power_two_sided_alpha_0_05": 194
+    },
+    {
+      "true_preference_rate": 0.65,
+      "approx_n_for_80pct_power_two_sided_alpha_0_05": 85
+    },
+    {
+      "true_preference_rate": 0.7,
+      "approx_n_for_80pct_power_two_sided_alpha_0_05": 47
+    },
+    {
+      "true_preference_rate": 0.75,
+      "approx_n_for_80pct_power_two_sided_alpha_0_05": 29
+    }
+  ],
+  "recommended_minimum_complete_pairs": 100,
+  "recommendation_rationale": "100 complete blind A/B pairs gives useful power for moderate preference effects and leaves room for exclusions; report exact confidence intervals and participant-level clustering when repeated judgments are collected.",
+  "boundary": "Planning calculation only. Final analysis should use the realized design, clustered/paired inference where appropriate, and a pre-specified exclusion policy."
+}
